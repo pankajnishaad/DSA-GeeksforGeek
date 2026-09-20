@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "solutions": [
+    {
+      "path": "gfg/Java/Medium/Maximum-Subset-XOR/Solution.java",
+      "metadata": {
+        "platform": "gfg",
+        "title": "Maximum Subset XOR",
+        "slug": "maximum-subset-xor",
+        "difficulty": "Medium",
+        "language": "Java",
+        "url": "https://www.geeksforgeeks.org/problems/maximum-subset-xor/1",
+        "solvedAt": "2026-09-20T18:55:35.116Z",
+        "patterns": [],
+        "topics": [],
+        "tags": []
+      },
+      "solvedAt": "2026-09-20T18:55:35.116Z"
+    }
+  ]
+}
