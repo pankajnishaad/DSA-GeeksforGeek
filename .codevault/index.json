@@ -16,6 +16,26 @@
         "tags": []
       },
       "solvedAt": "2026-09-20T18:55:35.116Z"
+    },
+    {
+      "path": "LeetCode/Java/medium/Find-X-Value-of-Array-I/Solution.java",
+      "metadata": {
+        "platform": "LeetCode",
+        "title": "Find X Value of Array I",
+        "slug": "find-x-value-of-array-i",
+        "difficulty": "medium",
+        "language": "Java",
+        "url": "https://leetcode.com/problems/find-x-value-of-array-i/submissions/2149006013/",
+        "solvedAt": "2026-09-21T18:26:55.256Z",
+        "patterns": [],
+        "topics": [
+          "Array"
+        ],
+        "tags": [
+          "Array"
+        ]
+      },
+      "solvedAt": "2026-09-21T18:26:55.256Z"
     }
   ]
 }

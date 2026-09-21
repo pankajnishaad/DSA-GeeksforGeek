@@ -10,20 +10,20 @@
 
 | Metric | Count |
 | --- | ---: |
-| 🏆 Total Solved | 1 |
+| 🏆 Total Solved | 2 |
 | 🔵 Basic | 0 |
 | 🟢 Easy | 0 |
-| 🟠 Medium | 1 |
+| 🟠 Medium | 2 |
 | 🔴 Hard | 0 |
 
 ## 📈 Progress
 
 | Difficulty | Progress | Solved |
 | --- | --- | ---: |
-| 🔵 Basic | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/1 |
-| 🟢 Easy | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/1 |
-| 🟠 Medium | ████████████████████ 100% | 1/1 |
-| 🔴 Hard | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/1 |
+| 🔵 Basic | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/2 |
+| 🟢 Easy | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/2 |
+| 🟠 Medium | ████████████████████ 100% | 2/2 |
+| 🔴 Hard | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/2 |
 
 ## 🔥 Coding Activity
 
@@ -33,24 +33,28 @@
 
 _No pattern data yet._
 
-_No topic data yet._
+| Topic | Problems |
+| --- | ---: |
+| [Array](topics/Array.md) | 1 |
 
 ## 💻 Languages
 
 | Language | Problems |
 | --- | ---: |
-| Java | 1 |
+| Java | 2 |
 
 ## 🌐 Platforms
 
 | Platform | Problems |
 | --- | ---: |
 | gfg | 1 |
+| LeetCode | 1 |
 
 ## 🕒 Recently Solved
 
 | Problem | Difficulty | Language | Platform |
 | --- | --- | --- | --- |
+| [Find X Value of Array I](LeetCode/Java/medium/Find-X-Value-of-Array-I/README.md) | Medium | Java | LeetCode |
 | [Maximum Subset XOR](gfg/Java/Medium/Maximum-Subset-XOR/README.md) | Medium | Java | gfg |
 
 ## 🗂 Repository
