@@ -56,6 +56,26 @@
         ]
       },
       "solvedAt": "2026-09-22T03:21:43.185Z"
+    },
+    {
+      "path": "gfg/Java/Medium/Longest-Matching-in-Dictionary-with-Removals/Solution.java",
+      "metadata": {
+        "platform": "gfg",
+        "title": "Longest Matching in Dictionary with Removals",
+        "slug": "find-largest-word-in-dictionary2430",
+        "difficulty": "Medium",
+        "language": "Java",
+        "url": "https://www.geeksforgeeks.org/problems/find-largest-word-in-dictionary2430/1",
+        "solvedAt": "2026-09-22T04:00:53.661Z",
+        "patterns": [],
+        "topics": [
+          "Hashing"
+        ],
+        "tags": [
+          "Hashing"
+        ]
+      },
+      "solvedAt": "2026-09-22T04:00:53.661Z"
     }
   ]
 }
