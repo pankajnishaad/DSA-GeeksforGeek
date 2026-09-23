@@ -10,20 +10,20 @@
 
 | Metric | Count |
 | --- | ---: |
-| 🏆 Total Solved | 5 |
+| 🏆 Total Solved | 6 |
 | 🔵 Basic | 0 |
 | 🟢 Easy | 0 |
-| 🟠 Medium | 4 |
+| 🟠 Medium | 5 |
 | 🔴 Hard | 1 |
 
 ## 📈 Progress
 
 | Difficulty | Progress | Solved |
 | --- | --- | ---: |
-| 🔵 Basic | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/5 |
-| 🟢 Easy | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/5 |
-| 🟠 Medium | ████████████████░░░░ 80% | 4/5 |
-| 🔴 Hard | ████░░░░░░░░░░░░░░░░ 20% | 1/5 |
+| 🔵 Basic | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/6 |
+| 🟢 Easy | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/6 |
+| 🟠 Medium | █████████████████░░░ 83% | 5/6 |
+| 🔴 Hard | ███░░░░░░░░░░░░░░░░░ 17% | 1/6 |
 
 ## 🔥 Coding Activity
 
@@ -37,26 +37,27 @@
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](topics/Array.md) | 2 |
+| [Array](topics/Array.md) | 3 |
 | [Hashing](topics/Hashing.md) | 1 |
 
 ## 💻 Languages
 
 | Language | Problems |
 | --- | ---: |
-| Java | 5 |
+| Java | 6 |
 
 ## 🌐 Platforms
 
 | Platform | Problems |
 | --- | ---: |
+| gfg | 3 |
 | LeetCode | 3 |
-| gfg | 2 |
 
 ## 🕒 Recently Solved
 
 | Problem | Difficulty | Language | Platform |
 | --- | --- | --- | --- |
+| [Pyramid Array with Reduce Operations](gfg/Java/Medium/Pyramid-Array-with-Reduce-Operations/README.md) | Medium | Java | gfg |
 | [Minimum Operations to Reduce X to Zero](LeetCode/Java/medium/Minimum-Operations-to-Reduce-X-to-Zero/README.md) | Medium | Java | LeetCode |
 | [Longest Matching in Dictionary with Removals](gfg/Java/Medium/Longest-Matching-in-Dictionary-with-Removals/README.md) | Medium | Java | gfg |
 | [Find X Value of Array II](LeetCode/Java/hard/Find-X-Value-of-Array-II/README.md) | Hard | Java | LeetCode |
