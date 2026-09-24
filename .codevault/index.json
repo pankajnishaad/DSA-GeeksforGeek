@@ -137,6 +137,26 @@
         ]
       },
       "solvedAt": "2026-09-24T17:13:23.573Z"
+    },
+    {
+      "path": "gfg/Java/Hard/Maximum-Height-Disc-Stack/Solution.java",
+      "metadata": {
+        "platform": "gfg",
+        "title": "Maximum Height Disc Stack",
+        "slug": "stacking-up-discs1315",
+        "difficulty": "Hard",
+        "language": "Java",
+        "url": "https://www.geeksforgeeks.org/problems/stacking-up-discs1315/1",
+        "solvedAt": "2026-09-24T18:18:42.168Z",
+        "patterns": [],
+        "topics": [
+          "Stack"
+        ],
+        "tags": [
+          "Stack"
+        ]
+      },
+      "solvedAt": "2026-09-24T18:18:42.168Z"
     }
   ]
 }

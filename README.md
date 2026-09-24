@@ -10,20 +10,20 @@
 
 | Metric | Count |
 | --- | ---: |
-| 🏆 Total Solved | 7 |
+| 🏆 Total Solved | 8 |
 | 🔵 Basic | 0 |
 | 🟢 Easy | 1 |
 | 🟠 Medium | 5 |
-| 🔴 Hard | 1 |
+| 🔴 Hard | 2 |
 
 ## 📈 Progress
 
 | Difficulty | Progress | Solved |
 | --- | --- | ---: |
-| 🔵 Basic | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/7 |
-| 🟢 Easy | ███░░░░░░░░░░░░░░░░░ 14% | 1/7 |
-| 🟠 Medium | ██████████████░░░░░░ 71% | 5/7 |
-| 🔴 Hard | ███░░░░░░░░░░░░░░░░░ 14% | 1/7 |
+| 🔵 Basic | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/8 |
+| 🟢 Easy | ███░░░░░░░░░░░░░░░░░ 13% | 1/8 |
+| 🟠 Medium | █████████████░░░░░░░ 63% | 5/8 |
+| 🔴 Hard | █████░░░░░░░░░░░░░░░ 25% | 2/8 |
 
 ## 🔥 Coding Activity
 
@@ -40,24 +40,26 @@
 | [Array](topics/Array.md) | 3 |
 | [Hashing](topics/Hashing.md) | 1 |
 | [Math](topics/Math.md) | 1 |
+| [Stack](topics/Stack.md) | 1 |
 
 ## 💻 Languages
 
 | Language | Problems |
 | --- | ---: |
-| Java | 7 |
+| Java | 8 |
 
 ## 🌐 Platforms
 
 | Platform | Problems |
 | --- | ---: |
+| gfg | 4 |
 | LeetCode | 4 |
-| gfg | 3 |
 
 ## 🕒 Recently Solved
 
 | Problem | Difficulty | Language | Platform |
 | --- | --- | --- | --- |
+| [Maximum Height Disc Stack](gfg/Java/Hard/Maximum-Height-Disc-Stack/README.md) | Hard | Java | gfg |
 | [Smallest Index With Digit Sum Equal to Index](LeetCode/Java/easy/Smallest-Index-With-Digit-Sum-Equal-to-Index/README.md) | Easy | Java | LeetCode |
 | [Pyramid Array with Reduce Operations](gfg/Java/Medium/Pyramid-Array-with-Reduce-Operations/README.md) | Medium | Java | gfg |
 | [Minimum Operations to Reduce X to Zero](LeetCode/Java/medium/Minimum-Operations-to-Reduce-X-to-Zero/README.md) | Medium | Java | LeetCode |
