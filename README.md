@@ -10,20 +10,20 @@
 
 | Metric | Count |
 | --- | ---: |
-| 🏆 Total Solved | 8 |
+| 🏆 Total Solved | 9 |
 | 🔵 Basic | 0 |
 | 🟢 Easy | 1 |
-| 🟠 Medium | 5 |
+| 🟠 Medium | 6 |
 | 🔴 Hard | 2 |
 
 ## 📈 Progress
 
 | Difficulty | Progress | Solved |
 | --- | --- | ---: |
-| 🔵 Basic | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/8 |
-| 🟢 Easy | ███░░░░░░░░░░░░░░░░░ 13% | 1/8 |
-| 🟠 Medium | █████████████░░░░░░░ 63% | 5/8 |
-| 🔴 Hard | █████░░░░░░░░░░░░░░░ 25% | 2/8 |
+| 🔵 Basic | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/9 |
+| 🟢 Easy | ██░░░░░░░░░░░░░░░░░░ 11% | 1/9 |
+| 🟠 Medium | █████████████░░░░░░░ 67% | 6/9 |
+| 🔴 Hard | ████░░░░░░░░░░░░░░░░ 22% | 2/9 |
 
 ## 🔥 Coding Activity
 
@@ -46,19 +46,20 @@
 
 | Language | Problems |
 | --- | ---: |
-| Java | 8 |
+| Java | 9 |
 
 ## 🌐 Platforms
 
 | Platform | Problems |
 | --- | ---: |
-| gfg | 4 |
+| gfg | 5 |
 | LeetCode | 4 |
 
 ## 🕒 Recently Solved
 
 | Problem | Difficulty | Language | Platform |
 | --- | --- | --- | --- |
+| [Minimum Cost Pizza  Selection](gfg/Java/Medium/Minimum-Cost-Pizza-Selection/README.md) | Medium | Java | gfg |
 | [Maximum Height Disc Stack](gfg/Java/Hard/Maximum-Height-Disc-Stack/README.md) | Hard | Java | gfg |
 | [Smallest Index With Digit Sum Equal to Index](LeetCode/Java/easy/Smallest-Index-With-Digit-Sum-Equal-to-Index/README.md) | Easy | Java | LeetCode |
 | [Pyramid Array with Reduce Operations](gfg/Java/Medium/Pyramid-Array-with-Reduce-Operations/README.md) | Medium | Java | gfg |

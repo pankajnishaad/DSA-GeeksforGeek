@@ -157,6 +157,22 @@
         ]
       },
       "solvedAt": "2026-09-24T18:18:42.168Z"
+    },
+    {
+      "path": "gfg/Java/Medium/Minimum-Cost-Pizza-Selection/Solution.java",
+      "metadata": {
+        "platform": "gfg",
+        "title": "Minimum Cost Pizza  Selection",
+        "slug": "pizza-mania0155",
+        "difficulty": "Medium",
+        "language": "Java",
+        "url": "https://www.geeksforgeeks.org/problems/pizza-mania0155/1",
+        "solvedAt": "2026-09-25T19:19:07.360Z",
+        "patterns": [],
+        "topics": [],
+        "tags": []
+      },
+      "solvedAt": "2026-09-25T19:19:07.360Z"
     }
   ]
 }
