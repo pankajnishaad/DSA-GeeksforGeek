@@ -10,20 +10,20 @@
 
 | Metric | Count |
 | --- | ---: |
-| 🏆 Total Solved | 9 |
+| 🏆 Total Solved | 10 |
 | 🔵 Basic | 0 |
 | 🟢 Easy | 1 |
-| 🟠 Medium | 6 |
+| 🟠 Medium | 7 |
 | 🔴 Hard | 2 |
 
 ## 📈 Progress
 
 | Difficulty | Progress | Solved |
 | --- | --- | ---: |
-| 🔵 Basic | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/9 |
-| 🟢 Easy | ██░░░░░░░░░░░░░░░░░░ 11% | 1/9 |
-| 🟠 Medium | █████████████░░░░░░░ 67% | 6/9 |
-| 🔴 Hard | ████░░░░░░░░░░░░░░░░ 22% | 2/9 |
+| 🔵 Basic | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/10 |
+| 🟢 Easy | ██░░░░░░░░░░░░░░░░░░ 10% | 1/10 |
+| 🟠 Medium | ██████████████░░░░░░ 70% | 7/10 |
+| 🔴 Hard | ████░░░░░░░░░░░░░░░░ 20% | 2/10 |
 
 ## 🔥 Coding Activity
 
@@ -33,7 +33,7 @@
 
 | Pattern | Problems |
 | --- | ---: |
-| [Hash Map](patterns/Hash%20Map.md) | 1 |
+| [Hash Map](patterns/Hash%20Map.md) | 2 |
 
 | Topic | Problems |
 | --- | ---: |
@@ -41,24 +41,26 @@
 | [Hashing](topics/Hashing.md) | 1 |
 | [Math](topics/Math.md) | 1 |
 | [Stack](topics/Stack.md) | 1 |
+| [String](topics/String.md) | 1 |
 
 ## 💻 Languages
 
 | Language | Problems |
 | --- | ---: |
-| Java | 9 |
+| Java | 10 |
 
 ## 🌐 Platforms
 
 | Platform | Problems |
 | --- | ---: |
 | gfg | 5 |
-| LeetCode | 4 |
+| LeetCode | 5 |
 
 ## 🕒 Recently Solved
 
 | Problem | Difficulty | Language | Platform |
 | --- | --- | --- | --- |
+| [Evaluate the Bracket Pairs of a String](LeetCode/Java/medium/Evaluate-the-Bracket-Pairs-of-a-String/README.md) | Medium | Java | LeetCode |
 | [Minimum Cost Pizza  Selection](gfg/Java/Medium/Minimum-Cost-Pizza-Selection/README.md) | Medium | Java | gfg |
 | [Maximum Height Disc Stack](gfg/Java/Hard/Maximum-Height-Disc-Stack/README.md) | Hard | Java | gfg |
 | [Smallest Index With Digit Sum Equal to Index](LeetCode/Java/easy/Smallest-Index-With-Digit-Sum-Equal-to-Index/README.md) | Easy | Java | LeetCode |

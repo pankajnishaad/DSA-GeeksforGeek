@@ -173,6 +173,30 @@
         "tags": []
       },
       "solvedAt": "2026-09-25T19:19:07.360Z"
+    },
+    {
+      "path": "LeetCode/Java/medium/Evaluate-the-Bracket-Pairs-of-a-String/Solution.java",
+      "metadata": {
+        "platform": "LeetCode",
+        "title": "Evaluate the Bracket Pairs of a String",
+        "slug": "evaluate-the-bracket-pairs-of-a-string",
+        "difficulty": "medium",
+        "language": "Java",
+        "url": "https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/submissions/2154323876/",
+        "solvedAt": "2026-09-26T19:40:08.063Z",
+        "patterns": [
+          "Hash Map"
+        ],
+        "topics": [
+          "String"
+        ],
+        "tags": [
+          "Hash Map",
+          "String"
+        ],
+        "spaceComplexity": "O(n)"
+      },
+      "solvedAt": "2026-09-26T19:40:08.063Z"
     }
   ]
 }
