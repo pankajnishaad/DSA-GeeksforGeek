@@ -3,3 +3,4 @@
 ## Problems
 
 - [Maximum Height Disc Stack](../gfg/Java/Hard/Maximum-Height-Disc-Stack/README.md) — gfg · Java · Hard
+- [Maximum Nesting Depth of the Parentheses](../LeetCode/Java/easy/Maximum-Nesting-Depth-of-the-Parentheses/README.md) — LeetCode · Java · easy

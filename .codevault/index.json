@@ -213,6 +213,26 @@
         "tags": []
       },
       "solvedAt": "2026-09-28T18:33:53.843Z"
+    },
+    {
+      "path": "LeetCode/Java/easy/Maximum-Nesting-Depth-of-the-Parentheses/Solution.java",
+      "metadata": {
+        "platform": "LeetCode",
+        "title": "Maximum Nesting Depth of the Parentheses",
+        "slug": "maximum-nesting-depth-of-the-parentheses",
+        "difficulty": "easy",
+        "language": "Java",
+        "url": "https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/submissions/2156361583/",
+        "solvedAt": "2026-09-28T18:35:48.784Z",
+        "patterns": [],
+        "topics": [
+          "Stack"
+        ],
+        "tags": [
+          "Stack"
+        ]
+      },
+      "solvedAt": "2026-09-28T18:35:48.784Z"
     }
   ]
 }
