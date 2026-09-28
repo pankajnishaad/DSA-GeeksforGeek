@@ -197,6 +197,22 @@
         "spaceComplexity": "O(n)"
       },
       "solvedAt": "2026-09-26T19:40:08.063Z"
+    },
+    {
+      "path": "gfg/Java/Medium/Range-GCD-Queries/Solution.java",
+      "metadata": {
+        "platform": "gfg",
+        "title": "Range GCD Queries",
+        "slug": "range-gcd-queries3654",
+        "difficulty": "Medium",
+        "language": "Java",
+        "url": "https://www.geeksforgeeks.org/problems/range-gcd-queries3654/1",
+        "solvedAt": "2026-09-28T18:33:53.843Z",
+        "patterns": [],
+        "topics": [],
+        "tags": []
+      },
+      "solvedAt": "2026-09-28T18:33:53.843Z"
     }
   ]
 }

@@ -10,20 +10,20 @@
 
 | Metric | Count |
 | --- | ---: |
-| 🏆 Total Solved | 10 |
+| 🏆 Total Solved | 11 |
 | 🔵 Basic | 0 |
 | 🟢 Easy | 1 |
-| 🟠 Medium | 7 |
+| 🟠 Medium | 8 |
 | 🔴 Hard | 2 |
 
 ## 📈 Progress
 
 | Difficulty | Progress | Solved |
 | --- | --- | ---: |
-| 🔵 Basic | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/10 |
-| 🟢 Easy | ██░░░░░░░░░░░░░░░░░░ 10% | 1/10 |
-| 🟠 Medium | ██████████████░░░░░░ 70% | 7/10 |
-| 🔴 Hard | ████░░░░░░░░░░░░░░░░ 20% | 2/10 |
+| 🔵 Basic | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/11 |
+| 🟢 Easy | ██░░░░░░░░░░░░░░░░░░ 9% | 1/11 |
+| 🟠 Medium | ███████████████░░░░░ 73% | 8/11 |
+| 🔴 Hard | ████░░░░░░░░░░░░░░░░ 18% | 2/11 |
 
 ## 🔥 Coding Activity
 
@@ -47,19 +47,20 @@
 
 | Language | Problems |
 | --- | ---: |
-| Java | 10 |
+| Java | 11 |
 
 ## 🌐 Platforms
 
 | Platform | Problems |
 | --- | ---: |
-| gfg | 5 |
+| gfg | 6 |
 | LeetCode | 5 |
 
 ## 🕒 Recently Solved
 
 | Problem | Difficulty | Language | Platform |
 | --- | --- | --- | --- |
+| [Range GCD Queries](gfg/Java/Medium/Range-GCD-Queries/README.md) | Medium | Java | gfg |
 | [Evaluate the Bracket Pairs of a String](LeetCode/Java/medium/Evaluate-the-Bracket-Pairs-of-a-String/README.md) | Medium | Java | LeetCode |
 | [Minimum Cost Pizza  Selection](gfg/Java/Medium/Minimum-Cost-Pizza-Selection/README.md) | Medium | Java | gfg |
 | [Maximum Height Disc Stack](gfg/Java/Hard/Maximum-Height-Disc-Stack/README.md) | Hard | Java | gfg |
@@ -69,7 +70,6 @@
 | [Longest Matching in Dictionary with Removals](gfg/Java/Medium/Longest-Matching-in-Dictionary-with-Removals/README.md) | Medium | Java | gfg |
 | [Find X Value of Array II](LeetCode/Java/hard/Find-X-Value-of-Array-II/README.md) | Hard | Java | LeetCode |
 | [Find X Value of Array I](LeetCode/Java/medium/Find-X-Value-of-Array-I/README.md) | Medium | Java | LeetCode |
-| [Maximum Subset XOR](gfg/Java/Medium/Maximum-Subset-XOR/README.md) | Medium | Java | gfg |
 
 ## 🗂 Repository
 
