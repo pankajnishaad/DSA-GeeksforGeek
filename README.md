@@ -10,20 +10,20 @@
 
 | Metric | Count |
 | --- | ---: |
-| 🏆 Total Solved | 13 |
+| 🏆 Total Solved | 14 |
 | 🔵 Basic | 0 |
 | 🟢 Easy | 2 |
-| 🟠 Medium | 9 |
+| 🟠 Medium | 10 |
 | 🔴 Hard | 2 |
 
 ## 📈 Progress
 
 | Difficulty | Progress | Solved |
 | --- | --- | ---: |
-| 🔵 Basic | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/13 |
-| 🟢 Easy | ███░░░░░░░░░░░░░░░░░ 15% | 2/13 |
-| 🟠 Medium | ██████████████░░░░░░ 69% | 9/13 |
-| 🔴 Hard | ███░░░░░░░░░░░░░░░░░ 15% | 2/13 |
+| 🔵 Basic | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/14 |
+| 🟢 Easy | ███░░░░░░░░░░░░░░░░░ 14% | 2/14 |
+| 🟠 Medium | ██████████████░░░░░░ 71% | 10/14 |
+| 🔴 Hard | ███░░░░░░░░░░░░░░░░░ 14% | 2/14 |
 
 ## 🔥 Coding Activity
 
@@ -47,19 +47,20 @@
 
 | Language | Problems |
 | --- | ---: |
-| Java | 13 |
+| Java | 14 |
 
 ## 🌐 Platforms
 
 | Platform | Problems |
 | --- | ---: |
-| gfg | 7 |
+| gfg | 8 |
 | LeetCode | 6 |
 
 ## 🕒 Recently Solved
 
 | Problem | Difficulty | Language | Platform |
 | --- | --- | --- | --- |
+| [Minimum Time to Finish Project](gfg/Java/Medium/Minimum-Time-to-Finish-Project/README.md) | Medium | Java | gfg |
 | [Ways to Reach Origin](gfg/Java/Medium/Ways-to-Reach-Origin/README.md) | Medium | Java | gfg |
 | [Maximum Nesting Depth of the Parentheses](LeetCode/Java/easy/Maximum-Nesting-Depth-of-the-Parentheses/README.md) | Easy | Java | LeetCode |
 | [Range GCD Queries](gfg/Java/Medium/Range-GCD-Queries/README.md) | Medium | Java | gfg |
@@ -69,7 +70,6 @@
 | [Smallest Index With Digit Sum Equal to Index](LeetCode/Java/easy/Smallest-Index-With-Digit-Sum-Equal-to-Index/README.md) | Easy | Java | LeetCode |
 | [Pyramid Array with Reduce Operations](gfg/Java/Medium/Pyramid-Array-with-Reduce-Operations/README.md) | Medium | Java | gfg |
 | [Minimum Operations to Reduce X to Zero](LeetCode/Java/medium/Minimum-Operations-to-Reduce-X-to-Zero/README.md) | Medium | Java | LeetCode |
-| [Longest Matching in Dictionary with Removals](gfg/Java/Medium/Longest-Matching-in-Dictionary-with-Removals/README.md) | Medium | Java | gfg |
 
 ## 🗂 Repository
 

@@ -249,6 +249,22 @@
         "tags": []
       },
       "solvedAt": "2026-09-30T18:22:42.003Z"
+    },
+    {
+      "path": "gfg/Java/Medium/Minimum-Time-to-Finish-Project/Solution.java",
+      "metadata": {
+        "platform": "gfg",
+        "title": "Minimum Time to Finish Project",
+        "slug": "project-manager--141631",
+        "difficulty": "Medium",
+        "language": "Java",
+        "url": "https://www.geeksforgeeks.org/problems/project-manager--141631/1",
+        "solvedAt": "2026-10-01T15:17:39.144Z",
+        "patterns": [],
+        "topics": [],
+        "tags": []
+      },
+      "solvedAt": "2026-10-01T15:17:39.144Z"
     }
   ]
 }
