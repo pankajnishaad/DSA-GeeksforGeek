@@ -265,6 +265,28 @@
         "tags": []
       },
       "solvedAt": "2026-10-01T15:17:39.144Z"
+    },
+    {
+      "path": "LeetCode/Java/easy/Valid-Parentheses/Solution.java",
+      "metadata": {
+        "platform": "LeetCode",
+        "title": "Valid Parentheses",
+        "slug": "valid-parentheses",
+        "difficulty": "easy",
+        "language": "Java",
+        "url": "https://leetcode.com/problems/valid-parentheses/submissions/2159349600/",
+        "solvedAt": "2026-10-01T15:43:36.358Z",
+        "patterns": [
+          "Stack"
+        ],
+        "topics": [
+          "Stack"
+        ],
+        "tags": [
+          "Stack"
+        ]
+      },
+      "solvedAt": "2026-10-01T15:43:36.358Z"
     }
   ]
 }
