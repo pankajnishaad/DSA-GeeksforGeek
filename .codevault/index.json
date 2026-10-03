@@ -309,6 +309,22 @@
         ]
       },
       "solvedAt": "2026-10-03T11:43:32.666Z"
+    },
+    {
+      "path": "gfg/Java/Hard/Largest-Rectangle-with-Column-Swaps/Solution.java",
+      "metadata": {
+        "platform": "gfg",
+        "title": "Largest Rectangle with Column Swaps",
+        "slug": "find-the-largest-rectangle-of-1s-with-swapping-of-columns-allowed0243",
+        "difficulty": "Hard",
+        "language": "Java",
+        "url": "https://www.geeksforgeeks.org/problems/find-the-largest-rectangle-of-1s-with-swapping-of-columns-allowed0243/1",
+        "solvedAt": "2026-10-03T11:57:14.440Z",
+        "patterns": [],
+        "topics": [],
+        "tags": []
+      },
+      "solvedAt": "2026-10-03T11:57:14.440Z"
     }
   ]
 }

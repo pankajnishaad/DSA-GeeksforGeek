@@ -10,20 +10,20 @@
 
 | Metric | Count |
 | --- | ---: |
-| 🏆 Total Solved | 16 |
+| 🏆 Total Solved | 17 |
 | 🔵 Basic | 0 |
 | 🟢 Easy | 3 |
 | 🟠 Medium | 10 |
-| 🔴 Hard | 3 |
+| 🔴 Hard | 4 |
 
 ## 📈 Progress
 
 | Difficulty | Progress | Solved |
 | --- | --- | ---: |
-| 🔵 Basic | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/16 |
-| 🟢 Easy | ████░░░░░░░░░░░░░░░░ 19% | 3/16 |
-| 🟠 Medium | █████████████░░░░░░░ 63% | 10/16 |
-| 🔴 Hard | ████░░░░░░░░░░░░░░░░ 19% | 3/16 |
+| 🔵 Basic | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/17 |
+| 🟢 Easy | ████░░░░░░░░░░░░░░░░ 18% | 3/17 |
+| 🟠 Medium | ████████████░░░░░░░░ 59% | 10/17 |
+| 🔴 Hard | █████░░░░░░░░░░░░░░░ 24% | 4/17 |
 
 ## 🔥 Coding Activity
 
@@ -48,19 +48,20 @@
 
 | Language | Problems |
 | --- | ---: |
-| Java | 16 |
+| Java | 17 |
 
 ## 🌐 Platforms
 
 | Platform | Problems |
 | --- | ---: |
-| gfg | 8 |
+| gfg | 9 |
 | LeetCode | 8 |
 
 ## 🕒 Recently Solved
 
 | Problem | Difficulty | Language | Platform |
 | --- | --- | --- | --- |
+| [Largest Rectangle with Column Swaps](gfg/Java/Hard/Largest-Rectangle-with-Column-Swaps/README.md) | Hard | Java | gfg |
 | [Longest Valid Parentheses](LeetCode/Java/hard/Longest-Valid-Parentheses/README.md) | Hard | Java | LeetCode |
 | [Valid Parentheses](LeetCode/Java/easy/Valid-Parentheses/README.md) | Easy | Java | LeetCode |
 | [Minimum Time to Finish Project](gfg/Java/Medium/Minimum-Time-to-Finish-Project/README.md) | Medium | Java | gfg |
@@ -70,7 +71,6 @@
 | [Evaluate the Bracket Pairs of a String](LeetCode/Java/medium/Evaluate-the-Bracket-Pairs-of-a-String/README.md) | Medium | Java | LeetCode |
 | [Minimum Cost Pizza  Selection](gfg/Java/Medium/Minimum-Cost-Pizza-Selection/README.md) | Medium | Java | gfg |
 | [Maximum Height Disc Stack](gfg/Java/Hard/Maximum-Height-Disc-Stack/README.md) | Hard | Java | gfg |
-| [Smallest Index With Digit Sum Equal to Index](LeetCode/Java/easy/Smallest-Index-With-Digit-Sum-Equal-to-Index/README.md) | Easy | Java | LeetCode |
 
 ## 🗂 Repository
 
