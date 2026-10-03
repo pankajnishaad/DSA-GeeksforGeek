@@ -349,6 +349,22 @@
         "spaceComplexity": "O(n)"
       },
       "solvedAt": "2026-10-03T12:04:20.929Z"
+    },
+    {
+      "path": "gfg/Java/Medium/Min-Product-Subset/Solution.java",
+      "metadata": {
+        "platform": "gfg",
+        "title": "Min Product Subset",
+        "slug": "max-and-min-products3347",
+        "difficulty": "Medium",
+        "language": "Java",
+        "url": "https://www.geeksforgeeks.org/problems/max-and-min-products3347/1",
+        "solvedAt": "2026-10-03T12:11:22.056Z",
+        "patterns": [],
+        "topics": [],
+        "tags": []
+      },
+      "solvedAt": "2026-10-03T12:11:22.056Z"
     }
   ]
 }

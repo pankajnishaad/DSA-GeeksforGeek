@@ -10,20 +10,20 @@
 
 | Metric | Count |
 | --- | ---: |
-| 🏆 Total Solved | 18 |
+| 🏆 Total Solved | 19 |
 | 🔵 Basic | 0 |
 | 🟢 Easy | 3 |
-| 🟠 Medium | 11 |
+| 🟠 Medium | 12 |
 | 🔴 Hard | 4 |
 
 ## 📈 Progress
 
 | Difficulty | Progress | Solved |
 | --- | --- | ---: |
-| 🔵 Basic | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/18 |
-| 🟢 Easy | ███░░░░░░░░░░░░░░░░░ 17% | 3/18 |
-| 🟠 Medium | ████████████░░░░░░░░ 61% | 11/18 |
-| 🔴 Hard | ████░░░░░░░░░░░░░░░░ 22% | 4/18 |
+| 🔵 Basic | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/19 |
+| 🟢 Easy | ███░░░░░░░░░░░░░░░░░ 16% | 3/19 |
+| 🟠 Medium | █████████████░░░░░░░ 63% | 12/19 |
+| 🔴 Hard | ████░░░░░░░░░░░░░░░░ 21% | 4/19 |
 
 ## 🔥 Coding Activity
 
@@ -48,19 +48,20 @@
 
 | Language | Problems |
 | --- | ---: |
-| Java | 18 |
+| Java | 19 |
 
 ## 🌐 Platforms
 
 | Platform | Problems |
 | --- | ---: |
-| gfg | 10 |
+| gfg | 11 |
 | LeetCode | 8 |
 
 ## 🕒 Recently Solved
 
 | Problem | Difficulty | Language | Platform |
 | --- | --- | --- | --- |
+| [Min Product Subset](gfg/Java/Medium/Min-Product-Subset/README.md) | Medium | Java | gfg |
 | [Transform String](gfg/Java/Medium/Transform-String/README.md) | Medium | Java | gfg |
 | [Largest Rectangle with Column Swaps](gfg/Java/Hard/Largest-Rectangle-with-Column-Swaps/README.md) | Hard | Java | gfg |
 | [Longest Valid Parentheses](LeetCode/Java/hard/Longest-Valid-Parentheses/README.md) | Hard | Java | LeetCode |
@@ -70,7 +71,6 @@
 | [Maximum Nesting Depth of the Parentheses](LeetCode/Java/easy/Maximum-Nesting-Depth-of-the-Parentheses/README.md) | Easy | Java | LeetCode |
 | [Range GCD Queries](gfg/Java/Medium/Range-GCD-Queries/README.md) | Medium | Java | gfg |
 | [Evaluate the Bracket Pairs of a String](LeetCode/Java/medium/Evaluate-the-Bracket-Pairs-of-a-String/README.md) | Medium | Java | LeetCode |
-| [Minimum Cost Pizza  Selection](gfg/Java/Medium/Minimum-Cost-Pizza-Selection/README.md) | Medium | Java | gfg |
 
 ## 🗂 Repository
 
