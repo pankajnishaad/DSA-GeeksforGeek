@@ -287,6 +287,28 @@
         ]
       },
       "solvedAt": "2026-10-01T15:43:36.358Z"
+    },
+    {
+      "path": "LeetCode/Java/hard/Longest-Valid-Parentheses/Solution.java",
+      "metadata": {
+        "platform": "LeetCode",
+        "title": "Longest Valid Parentheses",
+        "slug": "longest-valid-parentheses",
+        "difficulty": "hard",
+        "language": "Java",
+        "url": "https://leetcode.com/problems/longest-valid-parentheses/submissions/2161025996/",
+        "solvedAt": "2026-10-03T11:43:32.666Z",
+        "patterns": [
+          "Stack"
+        ],
+        "topics": [
+          "Stack"
+        ],
+        "tags": [
+          "Stack"
+        ]
+      },
+      "solvedAt": "2026-10-03T11:43:32.666Z"
     }
   ]
 }
