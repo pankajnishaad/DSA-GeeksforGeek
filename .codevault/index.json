@@ -325,6 +325,30 @@
         "tags": []
       },
       "solvedAt": "2026-10-03T11:57:14.440Z"
+    },
+    {
+      "path": "gfg/Java/Medium/Transform-String/Solution.java",
+      "metadata": {
+        "platform": "gfg",
+        "title": "Transform String",
+        "slug": "transform-string5648",
+        "difficulty": "Medium",
+        "language": "Java",
+        "url": "https://www.geeksforgeeks.org/problems/transform-string5648/1",
+        "solvedAt": "2026-10-03T12:04:20.929Z",
+        "patterns": [
+          "Hash Map"
+        ],
+        "topics": [
+          "String"
+        ],
+        "tags": [
+          "Hash Map",
+          "String"
+        ],
+        "spaceComplexity": "O(n)"
+      },
+      "solvedAt": "2026-10-03T12:04:20.929Z"
     }
   ]
 }
