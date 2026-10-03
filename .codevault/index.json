@@ -365,6 +365,22 @@
         "tags": []
       },
       "solvedAt": "2026-10-03T12:11:22.056Z"
+    },
+    {
+      "path": "gfg/Java/Medium/Subset-Sum-on-Generated-Sequence/Solution.java",
+      "metadata": {
+        "platform": "gfg",
+        "title": "Subset Sum on Generated Sequence",
+        "slug": "tricky-subset-problem1557",
+        "difficulty": "Medium",
+        "language": "Java",
+        "url": "https://www.geeksforgeeks.org/problems/tricky-subset-problem1557/1",
+        "solvedAt": "2026-10-03T12:12:57.053Z",
+        "patterns": [],
+        "topics": [],
+        "tags": []
+      },
+      "solvedAt": "2026-10-03T12:12:57.053Z"
     }
   ]
 }
