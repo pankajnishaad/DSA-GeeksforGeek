@@ -10,9 +10,9 @@
 
 | Metric | Count |
 | --- | ---: |
-| 🏆 Total Solved | 21 |
+| 🏆 Total Solved | 22 |
 | 🔵 Basic | 0 |
-| 🟢 Easy | 3 |
+| 🟢 Easy | 4 |
 | 🟠 Medium | 14 |
 | 🔴 Hard | 4 |
 
@@ -20,10 +20,10 @@
 
 | Difficulty | Progress | Solved |
 | --- | --- | ---: |
-| 🔵 Basic | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/21 |
-| 🟢 Easy | ███░░░░░░░░░░░░░░░░░ 14% | 3/21 |
-| 🟠 Medium | █████████████░░░░░░░ 67% | 14/21 |
-| 🔴 Hard | ████░░░░░░░░░░░░░░░░ 19% | 4/21 |
+| 🔵 Basic | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/22 |
+| 🟢 Easy | ████░░░░░░░░░░░░░░░░ 18% | 4/22 |
+| 🟠 Medium | █████████████░░░░░░░ 64% | 14/22 |
+| 🔴 Hard | ████░░░░░░░░░░░░░░░░ 18% | 4/22 |
 
 ## 🔥 Coding Activity
 
@@ -34,7 +34,7 @@
 | Pattern | Problems |
 | --- | ---: |
 | [Hash Map](patterns/Hash%20Map.md) | 3 |
-| [Stack](patterns/Stack.md) | 2 |
+| [Stack](patterns/Stack.md) | 3 |
 
 | Topic | Problems |
 | --- | ---: |
@@ -48,19 +48,20 @@
 
 | Language | Problems |
 | --- | ---: |
-| Java | 21 |
+| Java | 22 |
 
 ## 🌐 Platforms
 
 | Platform | Problems |
 | --- | ---: |
-| gfg | 12 |
+| gfg | 13 |
 | LeetCode | 9 |
 
 ## 🕒 Recently Solved
 
 | Problem | Difficulty | Language | Platform |
 | --- | --- | --- | --- |
+| [Parenthesis Checker](gfg/Java/Easy/Parenthesis-Checker/README.md) | Easy | Java | gfg |
 | [Valid Parenthesis String](LeetCode/Java/medium/Valid-Parenthesis-String/README.md) | Medium | Java | LeetCode |
 | [Subset Sum on Generated Sequence](gfg/Java/Medium/Subset-Sum-on-Generated-Sequence/README.md) | Medium | Java | gfg |
 | [Min Product Subset](gfg/Java/Medium/Min-Product-Subset/README.md) | Medium | Java | gfg |
@@ -70,7 +71,6 @@
 | [Valid Parentheses](LeetCode/Java/easy/Valid-Parentheses/README.md) | Easy | Java | LeetCode |
 | [Minimum Time to Finish Project](gfg/Java/Medium/Minimum-Time-to-Finish-Project/README.md) | Medium | Java | gfg |
 | [Ways to Reach Origin](gfg/Java/Medium/Ways-to-Reach-Origin/README.md) | Medium | Java | gfg |
-| [Maximum Nesting Depth of the Parentheses](LeetCode/Java/easy/Maximum-Nesting-Depth-of-the-Parentheses/README.md) | Easy | Java | LeetCode |
 
 ## 🗂 Repository
 

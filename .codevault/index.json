@@ -401,6 +401,26 @@
         ]
       },
       "solvedAt": "2026-10-04T04:17:29.687Z"
+    },
+    {
+      "path": "gfg/Java/Easy/Parenthesis-Checker/Solution.java",
+      "metadata": {
+        "platform": "gfg",
+        "title": "Parenthesis Checker",
+        "slug": "parenthesis-checker2744",
+        "difficulty": "Easy",
+        "language": "Java",
+        "url": "https://www.geeksforgeeks.org/problems/parenthesis-checker2744/1",
+        "solvedAt": "2026-10-04T04:18:42.128Z",
+        "patterns": [
+          "Stack"
+        ],
+        "topics": [],
+        "tags": [
+          "Stack"
+        ]
+      },
+      "solvedAt": "2026-10-04T04:18:42.128Z"
     }
   ]
 }
