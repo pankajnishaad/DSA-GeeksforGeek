@@ -421,6 +421,31 @@
         ]
       },
       "solvedAt": "2026-10-04T04:18:42.128Z"
+    },
+    {
+      "path": "LeetCode/Java/easy/Minimum-Number-of-Pushes-to-Type-Word-I/Solution.java",
+      "metadata": {
+        "platform": "LeetCode",
+        "title": "Minimum Number of Pushes to Type Word I",
+        "slug": "minimum-number-of-pushes-to-type-word-i",
+        "difficulty": "easy",
+        "language": "Java",
+        "url": "https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/submissions/2161726614/",
+        "solvedAt": "2026-10-04T04:41:44.403Z",
+        "patterns": [
+          "Hash Map"
+        ],
+        "topics": [
+          "Math"
+        ],
+        "tags": [
+          "Hash Map",
+          "Math"
+        ],
+        "timeComplexity": "O(n)",
+        "spaceComplexity": "O(n)"
+      },
+      "solvedAt": "2026-10-04T04:41:44.403Z"
     }
   ]
 }
