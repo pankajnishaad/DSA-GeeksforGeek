@@ -446,6 +446,22 @@
         "spaceComplexity": "O(n)"
       },
       "solvedAt": "2026-10-04T04:41:44.403Z"
+    },
+    {
+      "path": "LeetCode/Java/hard/Smallest-Palindromic-Rearrangement-II/Solution.java",
+      "metadata": {
+        "platform": "LeetCode",
+        "title": "Smallest Palindromic Rearrangement II",
+        "slug": "smallest-palindromic-rearrangement-ii",
+        "difficulty": "hard",
+        "language": "Java",
+        "url": "https://leetcode.com/problems/smallest-palindromic-rearrangement-ii/submissions/2161728605/",
+        "solvedAt": "2026-10-04T04:44:46.551Z",
+        "patterns": [],
+        "topics": [],
+        "tags": []
+      },
+      "solvedAt": "2026-10-04T04:44:46.551Z"
     }
   ]
 }
