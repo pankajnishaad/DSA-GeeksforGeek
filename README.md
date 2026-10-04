@@ -10,20 +10,20 @@
 
 | Metric | Count |
 | --- | ---: |
-| 🏆 Total Solved | 20 |
+| 🏆 Total Solved | 21 |
 | 🔵 Basic | 0 |
 | 🟢 Easy | 3 |
-| 🟠 Medium | 13 |
+| 🟠 Medium | 14 |
 | 🔴 Hard | 4 |
 
 ## 📈 Progress
 
 | Difficulty | Progress | Solved |
 | --- | --- | ---: |
-| 🔵 Basic | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/20 |
-| 🟢 Easy | ███░░░░░░░░░░░░░░░░░ 15% | 3/20 |
-| 🟠 Medium | █████████████░░░░░░░ 65% | 13/20 |
-| 🔴 Hard | ████░░░░░░░░░░░░░░░░ 20% | 4/20 |
+| 🔵 Basic | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/21 |
+| 🟢 Easy | ███░░░░░░░░░░░░░░░░░ 14% | 3/21 |
+| 🟠 Medium | █████████████░░░░░░░ 67% | 14/21 |
+| 🔴 Hard | ████░░░░░░░░░░░░░░░░ 19% | 4/21 |
 
 ## 🔥 Coding Activity
 
@@ -40,7 +40,7 @@
 | --- | ---: |
 | [Stack](topics/Stack.md) | 4 |
 | [Array](topics/Array.md) | 3 |
-| [String](topics/String.md) | 2 |
+| [String](topics/String.md) | 3 |
 | [Hashing](topics/Hashing.md) | 1 |
 | [Math](topics/Math.md) | 1 |
 
@@ -48,19 +48,20 @@
 
 | Language | Problems |
 | --- | ---: |
-| Java | 20 |
+| Java | 21 |
 
 ## 🌐 Platforms
 
 | Platform | Problems |
 | --- | ---: |
 | gfg | 12 |
-| LeetCode | 8 |
+| LeetCode | 9 |
 
 ## 🕒 Recently Solved
 
 | Problem | Difficulty | Language | Platform |
 | --- | --- | --- | --- |
+| [Valid Parenthesis String](LeetCode/Java/medium/Valid-Parenthesis-String/README.md) | Medium | Java | LeetCode |
 | [Subset Sum on Generated Sequence](gfg/Java/Medium/Subset-Sum-on-Generated-Sequence/README.md) | Medium | Java | gfg |
 | [Min Product Subset](gfg/Java/Medium/Min-Product-Subset/README.md) | Medium | Java | gfg |
 | [Transform String](gfg/Java/Medium/Transform-String/README.md) | Medium | Java | gfg |
@@ -70,7 +71,6 @@
 | [Minimum Time to Finish Project](gfg/Java/Medium/Minimum-Time-to-Finish-Project/README.md) | Medium | Java | gfg |
 | [Ways to Reach Origin](gfg/Java/Medium/Ways-to-Reach-Origin/README.md) | Medium | Java | gfg |
 | [Maximum Nesting Depth of the Parentheses](LeetCode/Java/easy/Maximum-Nesting-Depth-of-the-Parentheses/README.md) | Easy | Java | LeetCode |
-| [Range GCD Queries](gfg/Java/Medium/Range-GCD-Queries/README.md) | Medium | Java | gfg |
 
 ## 🗂 Repository
 

@@ -381,6 +381,26 @@
         "tags": []
       },
       "solvedAt": "2026-10-03T12:12:57.053Z"
+    },
+    {
+      "path": "LeetCode/Java/medium/Valid-Parenthesis-String/Solution.java",
+      "metadata": {
+        "platform": "LeetCode",
+        "title": "Valid Parenthesis String",
+        "slug": "valid-parenthesis-string",
+        "difficulty": "medium",
+        "language": "Java",
+        "url": "https://leetcode.com/problems/valid-parenthesis-string/submissions/2161710732/",
+        "solvedAt": "2026-10-04T04:17:29.687Z",
+        "patterns": [],
+        "topics": [
+          "String"
+        ],
+        "tags": [
+          "String"
+        ]
+      },
+      "solvedAt": "2026-10-04T04:17:29.687Z"
     }
   ]
 }
