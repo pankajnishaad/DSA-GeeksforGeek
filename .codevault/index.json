@@ -484,6 +484,22 @@
         ]
       },
       "solvedAt": "2026-10-05T11:31:49.781Z"
+    },
+    {
+      "path": "gfg/Java/Medium/Your-Social-Network/Solution.java",
+      "metadata": {
+        "platform": "gfg",
+        "title": "Your Social Network",
+        "slug": "your-social-network0328",
+        "difficulty": "Medium",
+        "language": "Java",
+        "url": "https://www.geeksforgeeks.org/problems/your-social-network0328/1",
+        "solvedAt": "2026-10-05T11:40:27.688Z",
+        "patterns": [],
+        "topics": [],
+        "tags": []
+      },
+      "solvedAt": "2026-10-05T11:40:27.688Z"
     }
   ]
 }

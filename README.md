@@ -10,20 +10,20 @@
 
 | Metric | Count |
 | --- | ---: |
-| 🏆 Total Solved | 25 |
+| 🏆 Total Solved | 26 |
 | 🔵 Basic | 0 |
 | 🟢 Easy | 5 |
-| 🟠 Medium | 15 |
+| 🟠 Medium | 16 |
 | 🔴 Hard | 5 |
 
 ## 📈 Progress
 
 | Difficulty | Progress | Solved |
 | --- | --- | ---: |
-| 🔵 Basic | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/25 |
-| 🟢 Easy | ████░░░░░░░░░░░░░░░░ 20% | 5/25 |
-| 🟠 Medium | ████████████░░░░░░░░ 60% | 15/25 |
-| 🔴 Hard | ████░░░░░░░░░░░░░░░░ 20% | 5/25 |
+| 🔵 Basic | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/26 |
+| 🟢 Easy | ████░░░░░░░░░░░░░░░░ 19% | 5/26 |
+| 🟠 Medium | ████████████░░░░░░░░ 62% | 16/26 |
+| 🔴 Hard | ████░░░░░░░░░░░░░░░░ 19% | 5/26 |
 
 ## 🔥 Coding Activity
 
@@ -48,19 +48,20 @@
 
 | Language | Problems |
 | --- | ---: |
-| Java | 25 |
+| Java | 26 |
 
 ## 🌐 Platforms
 
 | Platform | Problems |
 | --- | ---: |
-| gfg | 13 |
+| gfg | 14 |
 | LeetCode | 12 |
 
 ## 🕒 Recently Solved
 
 | Problem | Difficulty | Language | Platform |
 | --- | --- | --- | --- |
+| [Your Social Network](gfg/Java/Medium/Your-Social-Network/README.md) | Medium | Java | gfg |
 | [Score of Parentheses](LeetCode/Java/medium/Score-of-Parentheses/README.md) | Medium | Java | LeetCode |
 | [Smallest Palindromic Rearrangement II](LeetCode/Java/hard/Smallest-Palindromic-Rearrangement-II/README.md) | Hard | Java | LeetCode |
 | [Minimum Number of Pushes to Type Word I](LeetCode/Java/easy/Minimum-Number-of-Pushes-to-Type-Word-I/README.md) | Easy | Java | LeetCode |
@@ -70,7 +71,6 @@
 | [Min Product Subset](gfg/Java/Medium/Min-Product-Subset/README.md) | Medium | Java | gfg |
 | [Transform String](gfg/Java/Medium/Transform-String/README.md) | Medium | Java | gfg |
 | [Largest Rectangle with Column Swaps](gfg/Java/Hard/Largest-Rectangle-with-Column-Swaps/README.md) | Hard | Java | gfg |
-| [Longest Valid Parentheses](LeetCode/Java/hard/Longest-Valid-Parentheses/README.md) | Hard | Java | LeetCode |
 
 ## 🗂 Repository
 
