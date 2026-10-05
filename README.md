@@ -10,20 +10,20 @@
 
 | Metric | Count |
 | --- | ---: |
-| 🏆 Total Solved | 24 |
+| 🏆 Total Solved | 25 |
 | 🔵 Basic | 0 |
 | 🟢 Easy | 5 |
-| 🟠 Medium | 14 |
+| 🟠 Medium | 15 |
 | 🔴 Hard | 5 |
 
 ## 📈 Progress
 
 | Difficulty | Progress | Solved |
 | --- | --- | ---: |
-| 🔵 Basic | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/24 |
-| 🟢 Easy | ████░░░░░░░░░░░░░░░░ 21% | 5/24 |
-| 🟠 Medium | ████████████░░░░░░░░ 58% | 14/24 |
-| 🔴 Hard | ████░░░░░░░░░░░░░░░░ 21% | 5/24 |
+| 🔵 Basic | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/25 |
+| 🟢 Easy | ████░░░░░░░░░░░░░░░░ 20% | 5/25 |
+| 🟠 Medium | ████████████░░░░░░░░ 60% | 15/25 |
+| 🔴 Hard | ████░░░░░░░░░░░░░░░░ 20% | 5/25 |
 
 ## 🔥 Coding Activity
 
@@ -34,11 +34,11 @@
 | Pattern | Problems |
 | --- | ---: |
 | [Hash Map](patterns/Hash%20Map.md) | 4 |
-| [Stack](patterns/Stack.md) | 3 |
+| [Stack](patterns/Stack.md) | 4 |
 
 | Topic | Problems |
 | --- | ---: |
-| [Stack](topics/Stack.md) | 4 |
+| [Stack](topics/Stack.md) | 5 |
 | [Array](topics/Array.md) | 3 |
 | [String](topics/String.md) | 3 |
 | [Math](topics/Math.md) | 2 |
@@ -48,19 +48,20 @@
 
 | Language | Problems |
 | --- | ---: |
-| Java | 24 |
+| Java | 25 |
 
 ## 🌐 Platforms
 
 | Platform | Problems |
 | --- | ---: |
 | gfg | 13 |
-| LeetCode | 11 |
+| LeetCode | 12 |
 
 ## 🕒 Recently Solved
 
 | Problem | Difficulty | Language | Platform |
 | --- | --- | --- | --- |
+| [Score of Parentheses](LeetCode/Java/medium/Score-of-Parentheses/README.md) | Medium | Java | LeetCode |
 | [Smallest Palindromic Rearrangement II](LeetCode/Java/hard/Smallest-Palindromic-Rearrangement-II/README.md) | Hard | Java | LeetCode |
 | [Minimum Number of Pushes to Type Word I](LeetCode/Java/easy/Minimum-Number-of-Pushes-to-Type-Word-I/README.md) | Easy | Java | LeetCode |
 | [Parenthesis Checker](gfg/Java/Easy/Parenthesis-Checker/README.md) | Easy | Java | gfg |
@@ -70,7 +71,6 @@
 | [Transform String](gfg/Java/Medium/Transform-String/README.md) | Medium | Java | gfg |
 | [Largest Rectangle with Column Swaps](gfg/Java/Hard/Largest-Rectangle-with-Column-Swaps/README.md) | Hard | Java | gfg |
 | [Longest Valid Parentheses](LeetCode/Java/hard/Longest-Valid-Parentheses/README.md) | Hard | Java | LeetCode |
-| [Valid Parentheses](LeetCode/Java/easy/Valid-Parentheses/README.md) | Easy | Java | LeetCode |
 
 ## 🗂 Repository
 

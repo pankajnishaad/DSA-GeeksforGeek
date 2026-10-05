@@ -462,6 +462,28 @@
         "tags": []
       },
       "solvedAt": "2026-10-04T04:44:46.551Z"
+    },
+    {
+      "path": "LeetCode/Java/medium/Score-of-Parentheses/Solution.java",
+      "metadata": {
+        "platform": "LeetCode",
+        "title": "Score of Parentheses",
+        "slug": "score-of-parentheses",
+        "difficulty": "medium",
+        "language": "Java",
+        "url": "https://leetcode.com/problems/score-of-parentheses/submissions/2163063886/",
+        "solvedAt": "2026-10-05T11:31:49.781Z",
+        "patterns": [
+          "Stack"
+        ],
+        "topics": [
+          "Stack"
+        ],
+        "tags": [
+          "Stack"
+        ]
+      },
+      "solvedAt": "2026-10-05T11:31:49.781Z"
     }
   ]
 }
