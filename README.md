@@ -10,20 +10,20 @@
 
 | Metric | Count |
 | --- | ---: |
-| 🏆 Total Solved | 26 |
+| 🏆 Total Solved | 27 |
 | 🔵 Basic | 0 |
 | 🟢 Easy | 5 |
-| 🟠 Medium | 16 |
+| 🟠 Medium | 17 |
 | 🔴 Hard | 5 |
 
 ## 📈 Progress
 
 | Difficulty | Progress | Solved |
 | --- | --- | ---: |
-| 🔵 Basic | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/26 |
-| 🟢 Easy | ████░░░░░░░░░░░░░░░░ 19% | 5/26 |
-| 🟠 Medium | ████████████░░░░░░░░ 62% | 16/26 |
-| 🔴 Hard | ████░░░░░░░░░░░░░░░░ 19% | 5/26 |
+| 🔵 Basic | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/27 |
+| 🟢 Easy | ████░░░░░░░░░░░░░░░░ 19% | 5/27 |
+| 🟠 Medium | █████████████░░░░░░░ 63% | 17/27 |
+| 🔴 Hard | ████░░░░░░░░░░░░░░░░ 19% | 5/27 |
 
 ## 🔥 Coding Activity
 
@@ -38,7 +38,7 @@
 
 | Topic | Problems |
 | --- | ---: |
-| [Stack](topics/Stack.md) | 5 |
+| [Stack](topics/Stack.md) | 6 |
 | [Array](topics/Array.md) | 3 |
 | [String](topics/String.md) | 3 |
 | [Math](topics/Math.md) | 2 |
@@ -48,19 +48,20 @@
 
 | Language | Problems |
 | --- | ---: |
-| Java | 26 |
+| Java | 27 |
 
 ## 🌐 Platforms
 
 | Platform | Problems |
 | --- | ---: |
 | gfg | 14 |
-| LeetCode | 12 |
+| LeetCode | 13 |
 
 ## 🕒 Recently Solved
 
 | Problem | Difficulty | Language | Platform |
 | --- | --- | --- | --- |
+| [Minimum Add to Make Parentheses Valid](LeetCode/Java/medium/Minimum-Add-to-Make-Parentheses-Valid/README.md) | Medium | Java | LeetCode |
 | [Your Social Network](gfg/Java/Medium/Your-Social-Network/README.md) | Medium | Java | gfg |
 | [Score of Parentheses](LeetCode/Java/medium/Score-of-Parentheses/README.md) | Medium | Java | LeetCode |
 | [Smallest Palindromic Rearrangement II](LeetCode/Java/hard/Smallest-Palindromic-Rearrangement-II/README.md) | Hard | Java | LeetCode |
@@ -70,7 +71,6 @@
 | [Subset Sum on Generated Sequence](gfg/Java/Medium/Subset-Sum-on-Generated-Sequence/README.md) | Medium | Java | gfg |
 | [Min Product Subset](gfg/Java/Medium/Min-Product-Subset/README.md) | Medium | Java | gfg |
 | [Transform String](gfg/Java/Medium/Transform-String/README.md) | Medium | Java | gfg |
-| [Largest Rectangle with Column Swaps](gfg/Java/Hard/Largest-Rectangle-with-Column-Swaps/README.md) | Hard | Java | gfg |
 
 ## 🗂 Repository
 
