@@ -2,84 +2,146 @@
 
 > Automatically organized, analyzed, and updated by **CodeSyncVault**.
 
-[![CodeSyncVault](https://img.shields.io/badge/Powered%20by-CodeSyncVault-6e40c9)](https://github.com/vivekkushwahaofficial/CodeSyncVault)
+[![Total Solved](https://img.shields.io/badge/Total%20Solved-28-6e40c9)](docs/AllProblems.md) [![Basic](https://img.shields.io/badge/Basic-0-4c9aff)](docs/Basic.md) [![Easy](https://img.shields.io/badge/Easy-5-2ea44f)](docs/Easy.md) [![Medium](https://img.shields.io/badge/Medium-17-f9a825)](docs/Medium.md) [![Hard](https://img.shields.io/badge/Hard-6-d73a49)](docs/Hard.md) [![Powered by CodeSyncVault](https://img.shields.io/badge/Powered%20by-CodeSyncVault-6e40c9)](https://github.com/vivekkushwahaofficial/CodeSyncVault)
 
 ---
+
+## 📑 Table of Contents
+
+- [📚 Solution Documentation](#-solution-documentation)
+- [📈 Detailed Statistics](#-detailed-statistics)
+- [⚙️ Workflow & Automation](#️-workflow--automation)
+- [🗂 Repository](#-repository)
 
 ## 📊 Overview
 
 | Metric | Count |
 | --- | ---: |
-| 🏆 Total Solved | 27 |
+| 🏆 Total Solved | 28 |
 | 🔵 Basic | 0 |
 | 🟢 Easy | 5 |
 | 🟠 Medium | 17 |
-| 🔴 Hard | 5 |
+| 🔴 Hard | 6 |
 
 ## 📈 Progress
 
 | Difficulty | Progress | Solved |
 | --- | --- | ---: |
-| 🔵 Basic | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/27 |
-| 🟢 Easy | ████░░░░░░░░░░░░░░░░ 19% | 5/27 |
-| 🟠 Medium | █████████████░░░░░░░ 63% | 17/27 |
-| 🔴 Hard | ████░░░░░░░░░░░░░░░░ 19% | 5/27 |
+| 🔵 Basic | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/28 |
+| 🟢 Easy | ████░░░░░░░░░░░░░░░░ 18% | 5/28 |
+| 🟠 Medium | ████████████░░░░░░░░ 61% | 17/28 |
+| 🔴 Hard | ████░░░░░░░░░░░░░░░░ 21% | 6/28 |
 
 ## 🔥 Coding Activity
 
 ![CodeSyncVault Coding Activity](.codevault/activity.svg)
 
-## 🧩 Pattern & Topic Index
+## 🧩 Pattern Index
 
 | Pattern | Problems |
 | --- | ---: |
 | [Hash Map](patterns/Hash%20Map.md) | 4 |
 | [Stack](patterns/Stack.md) | 4 |
 
+## 📚 Topic Index
+
 | Topic | Problems |
 | --- | ---: |
 | [Stack](topics/Stack.md) | 6 |
 | [Array](topics/Array.md) | 3 |
+| [Math](topics/Math.md) | 3 |
 | [String](topics/String.md) | 3 |
-| [Math](topics/Math.md) | 2 |
 | [Hashing](topics/Hashing.md) | 1 |
+| [Linked List](topics/Linked%20List.md) | 1 |
+| [Tree](topics/Tree.md) | 1 |
 
 ## 💻 Languages
 
 | Language | Problems |
 | --- | ---: |
-| Java | 27 |
+| Java | 28 |
 
 ## 🌐 Platforms
 
 | Platform | Problems |
 | --- | ---: |
-| gfg | 14 |
+| GeeksforGeeks | 15 |
 | LeetCode | 13 |
 
 ## 🕒 Recently Solved
 
-| Problem | Difficulty | Language | Platform |
-| --- | --- | --- | --- |
-| [Minimum Add to Make Parentheses Valid](LeetCode/Java/medium/Minimum-Add-to-Make-Parentheses-Valid/README.md) | Medium | Java | LeetCode |
-| [Your Social Network](gfg/Java/Medium/Your-Social-Network/README.md) | Medium | Java | gfg |
-| [Score of Parentheses](LeetCode/Java/medium/Score-of-Parentheses/README.md) | Medium | Java | LeetCode |
-| [Smallest Palindromic Rearrangement II](LeetCode/Java/hard/Smallest-Palindromic-Rearrangement-II/README.md) | Hard | Java | LeetCode |
-| [Minimum Number of Pushes to Type Word I](LeetCode/Java/easy/Minimum-Number-of-Pushes-to-Type-Word-I/README.md) | Easy | Java | LeetCode |
-| [Parenthesis Checker](gfg/Java/Easy/Parenthesis-Checker/README.md) | Easy | Java | gfg |
-| [Valid Parenthesis String](LeetCode/Java/medium/Valid-Parenthesis-String/README.md) | Medium | Java | LeetCode |
-| [Subset Sum on Generated Sequence](gfg/Java/Medium/Subset-Sum-on-Generated-Sequence/README.md) | Medium | Java | gfg |
-| [Min Product Subset](gfg/Java/Medium/Min-Product-Subset/README.md) | Medium | Java | gfg |
-| [Transform String](gfg/Java/Medium/Transform-String/README.md) | Medium | Java | gfg |
+| Problem | Difficulty | Language | Platform | Date |
+| --- | --- | --- | --- | --- |
+| [Max Path Sum Between Two Leaves](gfg/Java/Hard/Max-Path-Sum-Between-Two-Leaves/README.md) | Hard | Java | GeeksforGeeks | 2026-10-07 |
+| [Minimum Add to Make Parentheses Valid](LeetCode/Java/medium/Minimum-Add-to-Make-Parentheses-Valid/README.md) | Medium | Java | LeetCode | 2026-10-06 |
+| [Your Social Network](gfg/Java/Medium/Your-Social-Network/README.md) | Medium | Java | GeeksforGeeks | 2026-10-05 |
+| [Score of Parentheses](LeetCode/Java/medium/Score-of-Parentheses/README.md) | Medium | Java | LeetCode | 2026-10-05 |
+| [Smallest Palindromic Rearrangement II](LeetCode/Java/hard/Smallest-Palindromic-Rearrangement-II/README.md) | Hard | Java | LeetCode | 2026-10-04 |
+| [Minimum Number of Pushes to Type Word I](LeetCode/Java/easy/Minimum-Number-of-Pushes-to-Type-Word-I/README.md) | Easy | Java | LeetCode | 2026-10-04 |
+| [Parenthesis Checker](gfg/Java/Easy/Parenthesis-Checker/README.md) | Easy | Java | GeeksforGeeks | 2026-10-04 |
+| [Valid Parenthesis String](LeetCode/Java/medium/Valid-Parenthesis-String/README.md) | Medium | Java | LeetCode | 2026-10-04 |
+| [Subset Sum on Generated Sequence](gfg/Java/Medium/Subset-Sum-on-Generated-Sequence/README.md) | Medium | Java | GeeksforGeeks | 2026-10-03 |
+| [Min Product Subset](gfg/Java/Medium/Min-Product-Subset/README.md) | Medium | Java | GeeksforGeeks | 2026-10-03 |
+
+## 📚 Solution Documentation
+
+| Resource | Description |
+| --- | --- |
+| 📚 [All Problems](docs/AllProblems.md) | Complete solution index |
+| 🔵 [Basic](docs/Basic.md) | Basic difficulty solutions |
+| 🟢 [Easy](docs/Easy.md) | Easy difficulty solutions |
+| 🟠 [Medium](docs/Medium.md) | Medium difficulty solutions |
+| 🔴 [Hard](docs/Hard.md) | Hard difficulty solutions |
+| 🧩 [Patterns](patterns/) | Problems grouped by solving pattern |
+| 📚 [Topics](topics/) | Problems grouped by topic |
+
+## 📈 Detailed Statistics
+
+Explore the complete repository analytics including:
+
+- Difficulty distribution
+- Platform distribution
+- Language usage
+- Pattern distribution
+- Topic distribution
+
+➡️ **[View Detailed Statistics](stats/progress.md)**
+
+## ⚙️ Workflow & Automation
+
+CodeSyncVault automatically keeps this repository organized:
+
+```text
+Accepted Solution
+       ↓
+Metadata Extraction
+       ↓
+Pattern & Topic Analysis
+       ↓
+Solution Packaging
+       ↓
+GitHub Sync
+       ↓
+Repository Index Update
+       ↓
+README & Documentation Regeneration
+```
+
+No manual statistics or documentation maintenance is required.
 
 ## 🗂 Repository
 
-- 📚 [Solution Index](.codevault/index.json)
-- 🧩 [Patterns](patterns/)
-- 📚 [Topics](topics/)
+| Resource | Purpose |
+| --- | --- |
+| 📚 [.codevault/index.json](.codevault/index.json) | Repository source of truth |
+| 🔥 [.codevault/activity.svg](.codevault/activity.svg) | Coding activity heatmap |
+| 🧩 [patterns/](patterns/) | Pattern-based indexes |
+| 📚 [topics/](topics/) | Topic-based indexes |
+| 📖 [docs/](docs/) | Difficulty & problem documentation |
+| 📈 [stats/](stats/) | Repository statistics |
 
 ---
 
 ### 🤖 Powered by CodeSyncVault
 
-This README is generated automatically from the CodeSyncVault repository index.
+This README and the repository documentation are generated automatically from the CodeSyncVault repository index.

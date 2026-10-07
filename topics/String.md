@@ -1,7 +1,17 @@
 # String
 
+> 3 problems classified under this topic.
+
+[← Back to README](../README.md) · [All Problems](../docs/AllProblems.md)
+
 ## Problems
 
-- [Evaluate the Bracket Pairs of a String](../LeetCode/Java/medium/Evaluate-the-Bracket-Pairs-of-a-String/README.md) — LeetCode · Java · medium
-- [Transform String](../gfg/Java/Medium/Transform-String/README.md) — gfg · Java · Medium
-- [Valid Parenthesis String](../LeetCode/Java/medium/Valid-Parenthesis-String/README.md) — LeetCode · Java · medium
+| Problem | Difficulty | Primary Tags | Language | Platform | Solution |
+| --- | --- | --- | --- | --- | --- |
+| Evaluate the Bracket Pairs of a String | Medium | Hash Map, String | Java | LeetCode | [View Solution](../LeetCode/Java/medium/Evaluate-the-Bracket-Pairs-of-a-String/README.md) |
+| Transform String | Medium | Hash Map, String | Java | GeeksforGeeks | [View Solution](../gfg/Java/Medium/Transform-String/README.md) |
+| Valid Parenthesis String | Medium | String | Java | LeetCode | [View Solution](../LeetCode/Java/medium/Valid-Parenthesis-String/README.md) |
+
+---
+
+Generated automatically by **CodeSyncVault**.

@@ -520,6 +520,30 @@
         ]
       },
       "solvedAt": "2026-10-06T16:36:51.576Z"
+    },
+    {
+      "path": "gfg/Java/Hard/Max-Path-Sum-Between-Two-Leaves/Solution.java",
+      "metadata": {
+        "platform": "gfg",
+        "title": "Max Path Sum Between Two Leaves",
+        "slug": "maximum-path-sum",
+        "difficulty": "Hard",
+        "language": "Java",
+        "url": "https://www.geeksforgeeks.org/problems/maximum-path-sum/1",
+        "solvedAt": "2026-10-07T14:34:03.121Z",
+        "patterns": [],
+        "topics": [
+          "Tree",
+          "Linked List",
+          "Math"
+        ],
+        "tags": [
+          "Tree",
+          "Linked List",
+          "Math"
+        ]
+      },
+      "solvedAt": "2026-10-07T14:34:03.121Z"
     }
   ]
 }
