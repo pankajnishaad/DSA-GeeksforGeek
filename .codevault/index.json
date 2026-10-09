@@ -624,6 +624,33 @@
         ]
       },
       "solvedAt": "2026-10-09T09:08:41.266Z"
+    },
+    {
+      "path": "gfg/Java/Medium/Longest-Bitonic-Subarray/Solution.java",
+      "metadata": {
+        "platform": "gfg",
+        "title": "Longest Bitonic Subarray",
+        "slug": "maximum-length-bitonic-subarray5730",
+        "difficulty": "Medium",
+        "language": "Java",
+        "url": "https://www.geeksforgeeks.org/problems/maximum-length-bitonic-subarray5730/1",
+        "solvedAt": "2026-10-09T10:39:09.341Z",
+        "patterns": [
+          "Sliding Window"
+        ],
+        "topics": [
+          "Array",
+          "Math"
+        ],
+        "tags": [
+          "Sliding Window",
+          "Array",
+          "Math",
+          "Subarray"
+        ],
+        "timeComplexity": "O(n)"
+      },
+      "solvedAt": "2026-10-09T10:39:09.341Z"
     }
   ]
 }

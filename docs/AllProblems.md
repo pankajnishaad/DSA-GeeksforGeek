@@ -1,6 +1,6 @@
 # 📚 All Coding Problems
 
-> **31** problems solved across all supported platforms.
+> **32** problems solved across all supported platforms.
 
 [⬅ Back to Portfolio README](../README.md)
 
@@ -11,6 +11,7 @@
 | Problem | Difficulty | Primary Tags | Language | Platform | Solution |
 | --- | --- | --- | --- | --- | --- |
 | Largest Rectangle with Column Swaps | Hard | — | Java | gfg | [View Solution](../gfg/Java/Hard/Largest-Rectangle-with-Column-Swaps/README.md) |
+| Longest Bitonic Subarray | Medium | Sliding Window, Array, Math, Subarray | Java | gfg | [View Solution](../gfg/Java/Medium/Longest-Bitonic-Subarray/README.md) |
 | Longest Matching in Dictionary with Removals | Medium | Hashing | Java | gfg | [View Solution](../gfg/Java/Medium/Longest-Matching-in-Dictionary-with-Removals/README.md) |
 | Max Path Sum Between Two Leaves | Hard | Tree, Linked List, Math | Java | gfg | [View Solution](../gfg/Java/Hard/Max-Path-Sum-Between-Two-Leaves/README.md) |
 | Maximum Height Disc Stack | Hard | Stack | Java | gfg | [View Solution](../gfg/Java/Hard/Maximum-Height-Disc-Stack/README.md) |

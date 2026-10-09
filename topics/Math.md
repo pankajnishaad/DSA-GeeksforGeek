@@ -1,6 +1,6 @@
 # Math
 
-> 6 problems classified under this topic.
+> 7 problems classified under this topic.
 
 [← Back to README](../README.md) · [All Problems](../docs/AllProblems.md)
 
@@ -14,6 +14,7 @@
 | Maximum Product of Two Elements in an Array | Easy | Array, Sorting, Heap (Priority Queue), Math | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Maximum-Product-of-Two-Elements-in-an-Array/README.md) |
 | Maximum Product of Three Numbers | Easy | Array, Math, Sorting | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Maximum-Product-of-Three-Numbers/README.md) |
 | Minimum Insertions to Balance a Parentheses String | Medium | String, Stack, Greedy, Bracket Sequences, Math | Java | LeetCode | [View Solution](../LeetCode/Java/medium/Minimum-Insertions-to-Balance-a-Parentheses-String/README.md) |
+| Longest Bitonic Subarray | Medium | Sliding Window, Array, Math, Subarray | Java | GeeksforGeeks | [View Solution](../gfg/Java/Medium/Longest-Bitonic-Subarray/README.md) |
 
 ---
 

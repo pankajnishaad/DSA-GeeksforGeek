@@ -1,6 +1,6 @@
 # 🟠 Medium Problems
 
-**Total Problems Solved:** 18
+**Total Problems Solved:** 19
 
 [⬅ Back to Portfolio README](../README.md) | [📚 All Problems](AllProblems.md) | [📈 Statistics](../stats/progress.md)
 
@@ -8,6 +8,7 @@
 
 | Problem | Difficulty | Primary Tags | Language | Platform | Solution |
 | --- | --- | --- | --- | --- | --- |
+| Longest Bitonic Subarray | Medium | Sliding Window, Array, Math, Subarray | Java | gfg | [View Solution](../gfg/Java/Medium/Longest-Bitonic-Subarray/README.md) |
 | Longest Matching in Dictionary with Removals | Medium | Hashing | Java | gfg | [View Solution](../gfg/Java/Medium/Longest-Matching-in-Dictionary-with-Removals/README.md) |
 | Maximum Subset XOR | Medium | — | Java | gfg | [View Solution](../gfg/Java/Medium/Maximum-Subset-XOR/README.md) |
 | Min Product Subset | Medium | — | Java | gfg | [View Solution](../gfg/Java/Medium/Min-Product-Subset/README.md) |
