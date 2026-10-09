@@ -570,6 +570,31 @@
         ]
       },
       "solvedAt": "2026-10-09T08:08:03.340Z"
+    },
+    {
+      "path": "LeetCode/Java/easy/Maximum-Product-of-Three-Numbers/Solution.java",
+      "metadata": {
+        "platform": "LeetCode",
+        "title": "Maximum Product of Three Numbers",
+        "slug": "maximum-product-of-three-numbers",
+        "difficulty": "easy",
+        "language": "Java",
+        "url": "https://leetcode.com/problems/maximum-product-of-three-numbers/submissions/2167094037/",
+        "tags": [
+          "Array",
+          "Math",
+          "Sorting"
+        ],
+        "solvedAt": "2026-10-09T08:11:25.396Z",
+        "patterns": [
+          "Sorting"
+        ],
+        "topics": [
+          "Array",
+          "Math"
+        ]
+      },
+      "solvedAt": "2026-10-09T08:11:25.396Z"
     }
   ]
 }

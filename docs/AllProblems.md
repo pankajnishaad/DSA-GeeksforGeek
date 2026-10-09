@@ -1,6 +1,6 @@
 # 📚 All Coding Problems
 
-> **29** problems solved across all supported platforms.
+> **30** problems solved across all supported platforms.
 
 [⬅ Back to Portfolio README](../README.md)
 
@@ -30,6 +30,7 @@
 | Find X Value of Array II | Hard | Array | Java | LeetCode | [View Solution](../LeetCode/Java/hard/Find-X-Value-of-Array-II/README.md) |
 | Longest Valid Parentheses | Hard | Stack | Java | LeetCode | [View Solution](../LeetCode/Java/hard/Longest-Valid-Parentheses/README.md) |
 | Maximum Nesting Depth of the Parentheses | Easy | Stack | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Maximum-Nesting-Depth-of-the-Parentheses/README.md) |
+| Maximum Product of Three Numbers | Easy | Array, Math, Sorting | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Maximum-Product-of-Three-Numbers/README.md) |
 | Maximum Product of Two Elements in an Array | Easy | Array, Sorting, Heap (Priority Queue), Math | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Maximum-Product-of-Two-Elements-in-an-Array/README.md) |
 | Minimum Add to Make Parentheses Valid | Medium | Stack | Java | LeetCode | [View Solution](../LeetCode/Java/medium/Minimum-Add-to-Make-Parentheses-Valid/README.md) |
 | Minimum Number of Pushes to Type Word I | Easy | Hash Map, Math | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Minimum-Number-of-Pushes-to-Type-Word-I/README.md) |
