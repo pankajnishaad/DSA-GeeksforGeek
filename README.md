@@ -2,7 +2,7 @@
 
 > Automatically organized, analyzed, and updated by **CodeSyncVault**.
 
-[![Total Solved](https://img.shields.io/badge/Total%20Solved-28-6e40c9)](docs/AllProblems.md) [![Basic](https://img.shields.io/badge/Basic-0-4c9aff)](docs/Basic.md) [![Easy](https://img.shields.io/badge/Easy-5-2ea44f)](docs/Easy.md) [![Medium](https://img.shields.io/badge/Medium-17-f9a825)](docs/Medium.md) [![Hard](https://img.shields.io/badge/Hard-6-d73a49)](docs/Hard.md) [![Powered by CodeSyncVault](https://img.shields.io/badge/Powered%20by-CodeSyncVault-6e40c9)](https://github.com/vivekkushwahaofficial/CodeSyncVault)
+[![Total Solved](https://img.shields.io/badge/Total%20Solved-29-6e40c9)](docs/AllProblems.md) [![Basic](https://img.shields.io/badge/Basic-0-4c9aff)](docs/Basic.md) [![Easy](https://img.shields.io/badge/Easy-6-2ea44f)](docs/Easy.md) [![Medium](https://img.shields.io/badge/Medium-17-f9a825)](docs/Medium.md) [![Hard](https://img.shields.io/badge/Hard-6-d73a49)](docs/Hard.md) [![Powered by CodeSyncVault](https://img.shields.io/badge/Powered%20by-CodeSyncVault-6e40c9)](https://github.com/vivekkushwahaofficial/CodeSyncVault)
 
 ---
 
@@ -17,9 +17,9 @@
 
 | Metric | Count |
 | --- | ---: |
-| 🏆 Total Solved | 28 |
+| 🏆 Total Solved | 29 |
 | 🔵 Basic | 0 |
-| 🟢 Easy | 5 |
+| 🟢 Easy | 6 |
 | 🟠 Medium | 17 |
 | 🔴 Hard | 6 |
 
@@ -27,10 +27,10 @@
 
 | Difficulty | Progress | Solved |
 | --- | --- | ---: |
-| 🔵 Basic | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/28 |
-| 🟢 Easy | ████░░░░░░░░░░░░░░░░ 18% | 5/28 |
-| 🟠 Medium | ████████████░░░░░░░░ 61% | 17/28 |
-| 🔴 Hard | ████░░░░░░░░░░░░░░░░ 21% | 6/28 |
+| 🔵 Basic | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/29 |
+| 🟢 Easy | ████░░░░░░░░░░░░░░░░ 21% | 6/29 |
+| 🟠 Medium | ████████████░░░░░░░░ 59% | 17/29 |
+| 🔴 Hard | ████░░░░░░░░░░░░░░░░ 21% | 6/29 |
 
 ## 🔥 Coding Activity
 
@@ -42,14 +42,15 @@
 | --- | ---: |
 | [Hash Map](patterns/Hash%20Map.md) | 4 |
 | [Stack](patterns/Stack.md) | 4 |
+| [Sorting](patterns/Sorting.md) | 1 |
 
 ## 📚 Topic Index
 
 | Topic | Problems |
 | --- | ---: |
 | [Stack](topics/Stack.md) | 6 |
-| [Array](topics/Array.md) | 3 |
-| [Math](topics/Math.md) | 3 |
+| [Array](topics/Array.md) | 4 |
+| [Math](topics/Math.md) | 4 |
 | [String](topics/String.md) | 3 |
 | [Hashing](topics/Hashing.md) | 1 |
 | [Linked List](topics/Linked%20List.md) | 1 |
@@ -59,19 +60,20 @@
 
 | Language | Problems |
 | --- | ---: |
-| Java | 28 |
+| Java | 29 |
 
 ## 🌐 Platforms
 
 | Platform | Problems |
 | --- | ---: |
 | GeeksforGeeks | 15 |
-| LeetCode | 13 |
+| LeetCode | 14 |
 
 ## 🕒 Recently Solved
 
 | Problem | Difficulty | Language | Platform | Date |
 | --- | --- | --- | --- | --- |
+| [Maximum Product of Two Elements in an Array](LeetCode/Java/easy/Maximum-Product-of-Two-Elements-in-an-Array/README.md) | Easy | Java | LeetCode | 2026-10-09 |
 | [Max Path Sum Between Two Leaves](gfg/Java/Hard/Max-Path-Sum-Between-Two-Leaves/README.md) | Hard | Java | GeeksforGeeks | 2026-10-07 |
 | [Minimum Add to Make Parentheses Valid](LeetCode/Java/medium/Minimum-Add-to-Make-Parentheses-Valid/README.md) | Medium | Java | LeetCode | 2026-10-06 |
 | [Your Social Network](gfg/Java/Medium/Your-Social-Network/README.md) | Medium | Java | GeeksforGeeks | 2026-10-05 |
@@ -81,7 +83,6 @@
 | [Parenthesis Checker](gfg/Java/Easy/Parenthesis-Checker/README.md) | Easy | Java | GeeksforGeeks | 2026-10-04 |
 | [Valid Parenthesis String](LeetCode/Java/medium/Valid-Parenthesis-String/README.md) | Medium | Java | LeetCode | 2026-10-04 |
 | [Subset Sum on Generated Sequence](gfg/Java/Medium/Subset-Sum-on-Generated-Sequence/README.md) | Medium | Java | GeeksforGeeks | 2026-10-03 |
-| [Min Product Subset](gfg/Java/Medium/Min-Product-Subset/README.md) | Medium | Java | GeeksforGeeks | 2026-10-03 |
 
 ## 📚 Solution Documentation
 
