@@ -1,6 +1,6 @@
 # 📚 All Coding Problems
 
-> **30** problems solved across all supported platforms.
+> **31** problems solved across all supported platforms.
 
 [⬅ Back to Portfolio README](../README.md)
 
@@ -33,6 +33,7 @@
 | Maximum Product of Three Numbers | Easy | Array, Math, Sorting | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Maximum-Product-of-Three-Numbers/README.md) |
 | Maximum Product of Two Elements in an Array | Easy | Array, Sorting, Heap (Priority Queue), Math | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Maximum-Product-of-Two-Elements-in-an-Array/README.md) |
 | Minimum Add to Make Parentheses Valid | Medium | Stack | Java | LeetCode | [View Solution](../LeetCode/Java/medium/Minimum-Add-to-Make-Parentheses-Valid/README.md) |
+| Minimum Insertions to Balance a Parentheses String | Medium | String, Stack, Greedy, Bracket Sequences, Math | Java | LeetCode | [View Solution](../LeetCode/Java/medium/Minimum-Insertions-to-Balance-a-Parentheses-String/README.md) |
 | Minimum Number of Pushes to Type Word I | Easy | Hash Map, Math | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Minimum-Number-of-Pushes-to-Type-Word-I/README.md) |
 | Minimum Operations to Reduce X to Zero | Medium | Hash Map | Java | LeetCode | [View Solution](../LeetCode/Java/medium/Minimum-Operations-to-Reduce-X-to-Zero/README.md) |
 | Score of Parentheses | Medium | Stack | Java | LeetCode | [View Solution](../LeetCode/Java/medium/Score-of-Parentheses/README.md) |

@@ -1,6 +1,6 @@
 # Math
 
-> 5 problems classified under this topic.
+> 6 problems classified under this topic.
 
 [← Back to README](../README.md) · [All Problems](../docs/AllProblems.md)
 
@@ -13,6 +13,7 @@
 | Max Path Sum Between Two Leaves | Hard | Tree, Linked List, Math | Java | GeeksforGeeks | [View Solution](../gfg/Java/Hard/Max-Path-Sum-Between-Two-Leaves/README.md) |
 | Maximum Product of Two Elements in an Array | Easy | Array, Sorting, Heap (Priority Queue), Math | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Maximum-Product-of-Two-Elements-in-an-Array/README.md) |
 | Maximum Product of Three Numbers | Easy | Array, Math, Sorting | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Maximum-Product-of-Three-Numbers/README.md) |
+| Minimum Insertions to Balance a Parentheses String | Medium | String, Stack, Greedy, Bracket Sequences, Math | Java | LeetCode | [View Solution](../LeetCode/Java/medium/Minimum-Insertions-to-Balance-a-Parentheses-String/README.md) |
 
 ---
 

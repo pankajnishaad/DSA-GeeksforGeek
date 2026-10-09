@@ -595,6 +595,35 @@
         ]
       },
       "solvedAt": "2026-10-09T08:11:25.396Z"
+    },
+    {
+      "path": "LeetCode/Java/medium/Minimum-Insertions-to-Balance-a-Parentheses-String/Solution.java",
+      "metadata": {
+        "platform": "LeetCode",
+        "title": "Minimum Insertions to Balance a Parentheses String",
+        "slug": "minimum-insertions-to-balance-a-parentheses-string",
+        "difficulty": "medium",
+        "language": "Java",
+        "url": "https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/submissions/2167135356/",
+        "tags": [
+          "String",
+          "Stack",
+          "Greedy",
+          "Bracket Sequences",
+          "Math"
+        ],
+        "solvedAt": "2026-10-09T09:08:41.266Z",
+        "patterns": [
+          "Stack",
+          "Greedy"
+        ],
+        "topics": [
+          "String",
+          "Stack",
+          "Math"
+        ]
+      },
+      "solvedAt": "2026-10-09T09:08:41.266Z"
     }
   ]
 }

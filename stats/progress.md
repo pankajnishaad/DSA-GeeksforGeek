@@ -10,50 +10,51 @@
 
 | Metric | Count | Percentage |
 | --- | ---: | ---: |
-| 🏆 Total Solved | 30 | 100% |
+| 🏆 Total Solved | 31 | 100% |
 | 🔵 Basic | 0 | 0% |
 | 🟢 Easy | 7 | 23% |
-| 🟠 Medium | 17 | 57% |
-| 🔴 Hard | 6 | 20% |
+| 🟠 Medium | 18 | 58% |
+| 🔴 Hard | 6 | 19% |
 
 ## 🎯 Difficulty Distribution
 
 | Difficulty | Progress | Solved |
 | --- | --- | ---: |
-| 🔵 Basic | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/30 |
-| 🟢 Easy | █████░░░░░░░░░░░░░░░ 23% | 7/30 |
-| 🟠 Medium | ███████████░░░░░░░░░ 57% | 17/30 |
-| 🔴 Hard | ████░░░░░░░░░░░░░░░░ 20% | 6/30 |
+| 🔵 Basic | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/31 |
+| 🟢 Easy | █████░░░░░░░░░░░░░░░ 23% | 7/31 |
+| 🟠 Medium | ████████████░░░░░░░░ 58% | 18/31 |
+| 🔴 Hard | ████░░░░░░░░░░░░░░░░ 19% | 6/31 |
 
 ## 🌐 Platform Distribution
 
 | Platform | Problems |
 | --- | ---: |
+| LeetCode | 16 |
 | gfg | 15 |
-| LeetCode | 15 |
 
 ## 💻 Language Distribution
 
 | Language | Problems |
 | --- | ---: |
-| Java | 30 |
+| Java | 31 |
 
 ## 🧩 Pattern Distribution
 
 | Pattern | Problems |
 | --- | ---: |
+| Stack | 5 |
 | Hash Map | 4 |
-| Stack | 4 |
 | Sorting | 2 |
+| Greedy | 1 |
 
 ## 📚 Topic Distribution
 
 | Topic | Problems |
 | --- | ---: |
-| Stack | 6 |
+| Stack | 7 |
+| Math | 6 |
 | Array | 5 |
-| Math | 5 |
-| String | 3 |
+| String | 4 |
 | Hashing | 1 |
 | Linked List | 1 |
 | Tree | 1 |

@@ -1,6 +1,6 @@
 # Stack
 
-> 6 problems classified under this topic.
+> 7 problems classified under this topic.
 
 [← Back to README](../README.md) · [All Problems](../docs/AllProblems.md)
 
@@ -14,6 +14,7 @@
 | Longest Valid Parentheses | Hard | Stack | Java | LeetCode | [View Solution](../LeetCode/Java/hard/Longest-Valid-Parentheses/README.md) |
 | Score of Parentheses | Medium | Stack | Java | LeetCode | [View Solution](../LeetCode/Java/medium/Score-of-Parentheses/README.md) |
 | Minimum Add to Make Parentheses Valid | Medium | Stack | Java | LeetCode | [View Solution](../LeetCode/Java/medium/Minimum-Add-to-Make-Parentheses-Valid/README.md) |
+| Minimum Insertions to Balance a Parentheses String | Medium | String, Stack, Greedy, Bracket Sequences, Math | Java | LeetCode | [View Solution](../LeetCode/Java/medium/Minimum-Insertions-to-Balance-a-Parentheses-String/README.md) |
 
 ---
 
