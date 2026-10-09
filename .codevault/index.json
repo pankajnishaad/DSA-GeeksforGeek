@@ -651,6 +651,26 @@
         "timeComplexity": "O(n)"
       },
       "solvedAt": "2026-10-09T10:39:09.341Z"
+    },
+    {
+      "path": "gfg/Java/Medium/Minimum-Cost-to-Fill-Given-Weight/Solution.java",
+      "metadata": {
+        "platform": "gfg",
+        "title": "Minimum Cost to Fill Given Weight",
+        "slug": "minimum-cost-to-fill-given-weight-in-a-bag1956",
+        "difficulty": "Medium",
+        "language": "Java",
+        "url": "https://www.geeksforgeeks.org/problems/minimum-cost-to-fill-given-weight-in-a-bag1956/1",
+        "solvedAt": "2026-10-09T21:24:23.952Z",
+        "patterns": [],
+        "topics": [
+          "Array"
+        ],
+        "tags": [
+          "Array"
+        ]
+      },
+      "solvedAt": "2026-10-09T21:24:23.952Z"
     }
   ]
 }

@@ -1,6 +1,6 @@
 # 📚 All Coding Problems
 
-> **32** problems solved across all supported platforms.
+> **33** problems solved across all supported platforms.
 
 [⬅ Back to Portfolio README](../README.md)
 
@@ -18,6 +18,7 @@
 | Maximum Subset XOR | Medium | — | Java | gfg | [View Solution](../gfg/Java/Medium/Maximum-Subset-XOR/README.md) |
 | Min Product Subset | Medium | — | Java | gfg | [View Solution](../gfg/Java/Medium/Min-Product-Subset/README.md) |
 | Minimum Cost Pizza  Selection | Medium | — | Java | gfg | [View Solution](../gfg/Java/Medium/Minimum-Cost-Pizza-Selection/README.md) |
+| Minimum Cost to Fill Given Weight | Medium | Array | Java | gfg | [View Solution](../gfg/Java/Medium/Minimum-Cost-to-Fill-Given-Weight/README.md) |
 | Minimum Time to Finish Project | Medium | — | Java | gfg | [View Solution](../gfg/Java/Medium/Minimum-Time-to-Finish-Project/README.md) |
 | Parenthesis Checker | Easy | Stack | Java | gfg | [View Solution](../gfg/Java/Easy/Parenthesis-Checker/README.md) |
 | Pyramid Array with Reduce Operations | Medium | Array | Java | gfg | [View Solution](../gfg/Java/Medium/Pyramid-Array-with-Reduce-Operations/README.md) |

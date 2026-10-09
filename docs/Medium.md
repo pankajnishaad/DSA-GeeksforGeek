@@ -1,6 +1,6 @@
 # 🟠 Medium Problems
 
-**Total Problems Solved:** 19
+**Total Problems Solved:** 20
 
 [⬅ Back to Portfolio README](../README.md) | [📚 All Problems](AllProblems.md) | [📈 Statistics](../stats/progress.md)
 
@@ -13,6 +13,7 @@
 | Maximum Subset XOR | Medium | — | Java | gfg | [View Solution](../gfg/Java/Medium/Maximum-Subset-XOR/README.md) |
 | Min Product Subset | Medium | — | Java | gfg | [View Solution](../gfg/Java/Medium/Min-Product-Subset/README.md) |
 | Minimum Cost Pizza  Selection | Medium | — | Java | gfg | [View Solution](../gfg/Java/Medium/Minimum-Cost-Pizza-Selection/README.md) |
+| Minimum Cost to Fill Given Weight | Medium | Array | Java | gfg | [View Solution](../gfg/Java/Medium/Minimum-Cost-to-Fill-Given-Weight/README.md) |
 | Minimum Time to Finish Project | Medium | — | Java | gfg | [View Solution](../gfg/Java/Medium/Minimum-Time-to-Finish-Project/README.md) |
 | Pyramid Array with Reduce Operations | Medium | Array | Java | gfg | [View Solution](../gfg/Java/Medium/Pyramid-Array-with-Reduce-Operations/README.md) |
 | Range GCD Queries | Medium | — | Java | gfg | [View Solution](../gfg/Java/Medium/Range-GCD-Queries/README.md) |

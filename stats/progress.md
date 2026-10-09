@@ -10,33 +10,33 @@
 
 | Metric | Count | Percentage |
 | --- | ---: | ---: |
-| 🏆 Total Solved | 32 | 100% |
+| 🏆 Total Solved | 33 | 100% |
 | 🔵 Basic | 0 | 0% |
-| 🟢 Easy | 7 | 22% |
-| 🟠 Medium | 19 | 59% |
-| 🔴 Hard | 6 | 19% |
+| 🟢 Easy | 7 | 21% |
+| 🟠 Medium | 20 | 61% |
+| 🔴 Hard | 6 | 18% |
 
 ## 🎯 Difficulty Distribution
 
 | Difficulty | Progress | Solved |
 | --- | --- | ---: |
-| 🔵 Basic | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/32 |
-| 🟢 Easy | ████░░░░░░░░░░░░░░░░ 22% | 7/32 |
-| 🟠 Medium | ████████████░░░░░░░░ 59% | 19/32 |
-| 🔴 Hard | ████░░░░░░░░░░░░░░░░ 19% | 6/32 |
+| 🔵 Basic | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/33 |
+| 🟢 Easy | ████░░░░░░░░░░░░░░░░ 21% | 7/33 |
+| 🟠 Medium | ████████████░░░░░░░░ 61% | 20/33 |
+| 🔴 Hard | ████░░░░░░░░░░░░░░░░ 18% | 6/33 |
 
 ## 🌐 Platform Distribution
 
 | Platform | Problems |
 | --- | ---: |
-| gfg | 16 |
+| gfg | 17 |
 | LeetCode | 16 |
 
 ## 💻 Language Distribution
 
 | Language | Problems |
 | --- | ---: |
-| Java | 32 |
+| Java | 33 |
 
 ## 🧩 Pattern Distribution
 
@@ -52,9 +52,9 @@
 
 | Topic | Problems |
 | --- | ---: |
+| Array | 7 |
 | Math | 7 |
 | Stack | 7 |
-| Array | 6 |
 | String | 4 |
 | Hashing | 1 |
 | Linked List | 1 |
