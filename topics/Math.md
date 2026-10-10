@@ -1,6 +1,6 @@
 # Math
 
-> 8 problems classified under this topic.
+> 9 problems classified under this topic.
 
 [← Back to README](../README.md) · [All Problems](../docs/AllProblems.md)
 
@@ -16,6 +16,7 @@
 | Minimum Insertions to Balance a Parentheses String | Medium | String, Stack, Greedy, Bracket Sequences, Math | Java | LeetCode | [View Solution](../LeetCode/Java/medium/Minimum-Insertions-to-Balance-a-Parentheses-String/README.md) |
 | Longest Bitonic Subarray | Medium | Sliding Window, Array, Math, Subarray | Java | GeeksforGeeks | [View Solution](../gfg/Java/Medium/Longest-Bitonic-Subarray/README.md) |
 | Minimum Sum of Squared Difference | Medium | Array, Binary Search, Greedy, Sorting, Heap (Priority Queue), Math | Java | LeetCode | [View Solution](../LeetCode/Java/medium/Minimum-Sum-of-Squared-Difference/README.md) |
+| LRU Cache | Medium | Hash Table, Linked List, Design, Doubly-Linked List, Hash Map, Math | Java | LeetCode | [View Solution](../LeetCode/Java/medium/LRU-Cache/README.md) |
 
 ---
 

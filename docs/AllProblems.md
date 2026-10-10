@@ -1,6 +1,6 @@
 # 📚 All Coding Problems
 
-> **34** problems solved across all supported platforms.
+> **35** problems solved across all supported platforms.
 
 [⬅ Back to Portfolio README](../README.md)
 
@@ -31,6 +31,7 @@
 | Find X Value of Array I | Medium | Array | Java | LeetCode | [View Solution](../LeetCode/Java/medium/Find-X-Value-of-Array-I/README.md) |
 | Find X Value of Array II | Hard | Array | Java | LeetCode | [View Solution](../LeetCode/Java/hard/Find-X-Value-of-Array-II/README.md) |
 | Longest Valid Parentheses | Hard | Stack | Java | LeetCode | [View Solution](../LeetCode/Java/hard/Longest-Valid-Parentheses/README.md) |
+| LRU Cache | Medium | Hash Table, Linked List, Design, Doubly-Linked List, Hash Map, Math | Java | LeetCode | [View Solution](../LeetCode/Java/medium/LRU-Cache/README.md) |
 | Maximum Nesting Depth of the Parentheses | Easy | Stack | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Maximum-Nesting-Depth-of-the-Parentheses/README.md) |
 | Maximum Product of Three Numbers | Easy | Array, Math, Sorting | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Maximum-Product-of-Three-Numbers/README.md) |
 | Maximum Product of Two Elements in an Array | Easy | Array, Sorting, Heap (Priority Queue), Math | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Maximum-Product-of-Two-Elements-in-an-Array/README.md) |

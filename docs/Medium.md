@@ -1,6 +1,6 @@
 # 🟠 Medium Problems
 
-**Total Problems Solved:** 21
+**Total Problems Solved:** 22
 
 [⬅ Back to Portfolio README](../README.md) | [📚 All Problems](AllProblems.md) | [📈 Statistics](../stats/progress.md)
 
@@ -23,6 +23,7 @@
 | Your Social Network | Medium | — | Java | gfg | [View Solution](../gfg/Java/Medium/Your-Social-Network/README.md) |
 | Evaluate the Bracket Pairs of a String | Medium | Hash Map, String | Java | LeetCode | [View Solution](../LeetCode/Java/medium/Evaluate-the-Bracket-Pairs-of-a-String/README.md) |
 | Find X Value of Array I | Medium | Array | Java | LeetCode | [View Solution](../LeetCode/Java/medium/Find-X-Value-of-Array-I/README.md) |
+| LRU Cache | Medium | Hash Table, Linked List, Design, Doubly-Linked List, Hash Map, Math | Java | LeetCode | [View Solution](../LeetCode/Java/medium/LRU-Cache/README.md) |
 | Minimum Add to Make Parentheses Valid | Medium | Stack | Java | LeetCode | [View Solution](../LeetCode/Java/medium/Minimum-Add-to-Make-Parentheses-Valid/README.md) |
 | Minimum Insertions to Balance a Parentheses String | Medium | String, Stack, Greedy, Bracket Sequences, Math | Java | LeetCode | [View Solution](../LeetCode/Java/medium/Minimum-Insertions-to-Balance-a-Parentheses-String/README.md) |
 | Minimum Operations to Reduce X to Zero | Medium | Hash Map | Java | LeetCode | [View Solution](../LeetCode/Java/medium/Minimum-Operations-to-Reduce-X-to-Zero/README.md) |

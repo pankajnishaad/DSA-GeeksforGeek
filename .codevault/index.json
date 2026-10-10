@@ -703,6 +703,35 @@
         "spaceComplexity": "O(1)"
       },
       "solvedAt": "2026-10-10T18:40:21.781Z"
+    },
+    {
+      "path": "LeetCode/Java/medium/LRU-Cache/Solution.java",
+      "metadata": {
+        "platform": "LeetCode",
+        "title": "LRU Cache",
+        "slug": "lru-cache",
+        "difficulty": "medium",
+        "language": "Java",
+        "url": "https://leetcode.com/problems/lru-cache/submissions/2168646426/",
+        "tags": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List",
+          "Hash Map",
+          "Math"
+        ],
+        "solvedAt": "2026-10-10T21:12:48.238Z",
+        "patterns": [
+          "Hash Map"
+        ],
+        "topics": [
+          "Math"
+        ],
+        "timeComplexity": "O(n)",
+        "spaceComplexity": "O(n)"
+      },
+      "solvedAt": "2026-10-10T21:12:48.238Z"
     }
   ]
 }
