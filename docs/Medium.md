@@ -1,6 +1,6 @@
 # 🟠 Medium Problems
 
-**Total Problems Solved:** 20
+**Total Problems Solved:** 21
 
 [⬅ Back to Portfolio README](../README.md) | [📚 All Problems](AllProblems.md) | [📈 Statistics](../stats/progress.md)
 
@@ -26,6 +26,7 @@
 | Minimum Add to Make Parentheses Valid | Medium | Stack | Java | LeetCode | [View Solution](../LeetCode/Java/medium/Minimum-Add-to-Make-Parentheses-Valid/README.md) |
 | Minimum Insertions to Balance a Parentheses String | Medium | String, Stack, Greedy, Bracket Sequences, Math | Java | LeetCode | [View Solution](../LeetCode/Java/medium/Minimum-Insertions-to-Balance-a-Parentheses-String/README.md) |
 | Minimum Operations to Reduce X to Zero | Medium | Hash Map | Java | LeetCode | [View Solution](../LeetCode/Java/medium/Minimum-Operations-to-Reduce-X-to-Zero/README.md) |
+| Minimum Sum of Squared Difference | Medium | Array, Binary Search, Greedy, Sorting, Heap (Priority Queue), Math | Java | LeetCode | [View Solution](../LeetCode/Java/medium/Minimum-Sum-of-Squared-Difference/README.md) |
 | Score of Parentheses | Medium | Stack | Java | LeetCode | [View Solution](../LeetCode/Java/medium/Score-of-Parentheses/README.md) |
 | Valid Parenthesis String | Medium | String | Java | LeetCode | [View Solution](../LeetCode/Java/medium/Valid-Parenthesis-String/README.md) |
 

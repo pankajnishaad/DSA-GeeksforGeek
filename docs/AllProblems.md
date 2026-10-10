@@ -1,6 +1,6 @@
 # 📚 All Coding Problems
 
-> **33** problems solved across all supported platforms.
+> **34** problems solved across all supported platforms.
 
 [⬅ Back to Portfolio README](../README.md)
 
@@ -38,6 +38,7 @@
 | Minimum Insertions to Balance a Parentheses String | Medium | String, Stack, Greedy, Bracket Sequences, Math | Java | LeetCode | [View Solution](../LeetCode/Java/medium/Minimum-Insertions-to-Balance-a-Parentheses-String/README.md) |
 | Minimum Number of Pushes to Type Word I | Easy | Hash Map, Math | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Minimum-Number-of-Pushes-to-Type-Word-I/README.md) |
 | Minimum Operations to Reduce X to Zero | Medium | Hash Map | Java | LeetCode | [View Solution](../LeetCode/Java/medium/Minimum-Operations-to-Reduce-X-to-Zero/README.md) |
+| Minimum Sum of Squared Difference | Medium | Array, Binary Search, Greedy, Sorting, Heap (Priority Queue), Math | Java | LeetCode | [View Solution](../LeetCode/Java/medium/Minimum-Sum-of-Squared-Difference/README.md) |
 | Score of Parentheses | Medium | Stack | Java | LeetCode | [View Solution](../LeetCode/Java/medium/Score-of-Parentheses/README.md) |
 | Smallest Index With Digit Sum Equal to Index | Easy | Math | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Smallest-Index-With-Digit-Sum-Equal-to-Index/README.md) |
 | Smallest Palindromic Rearrangement II | Hard | — | Java | LeetCode | [View Solution](../LeetCode/Java/hard/Smallest-Palindromic-Rearrangement-II/README.md) |

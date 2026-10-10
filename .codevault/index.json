@@ -671,6 +671,38 @@
         ]
       },
       "solvedAt": "2026-10-09T21:24:23.952Z"
+    },
+    {
+      "path": "LeetCode/Java/medium/Minimum-Sum-of-Squared-Difference/Solution.java",
+      "metadata": {
+        "platform": "LeetCode",
+        "title": "Minimum Sum of Squared Difference",
+        "slug": "minimum-sum-of-squared-difference",
+        "difficulty": "medium",
+        "language": "Java",
+        "url": "https://leetcode.com/problems/minimum-sum-of-squared-difference/submissions/2168559363/",
+        "tags": [
+          "Array",
+          "Binary Search",
+          "Greedy",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Math"
+        ],
+        "solvedAt": "2026-10-10T18:40:21.781Z",
+        "patterns": [
+          "Binary Search",
+          "Greedy",
+          "Sorting"
+        ],
+        "topics": [
+          "Array",
+          "Math"
+        ],
+        "timeComplexity": "O(log n)",
+        "spaceComplexity": "O(1)"
+      },
+      "solvedAt": "2026-10-10T18:40:21.781Z"
     }
   ]
 }

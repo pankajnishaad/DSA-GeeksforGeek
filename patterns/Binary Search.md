@@ -1,6 +1,6 @@
-# Greedy
+# Binary Search
 
-> 2 problems classified under this pattern.
+> 1 problem classified under this pattern.
 
 [← Back to README](../README.md) · [All Problems](../docs/AllProblems.md)
 
@@ -8,7 +8,6 @@
 
 | Problem | Difficulty | Primary Tags | Language | Platform | Solution |
 | --- | --- | --- | --- | --- | --- |
-| Minimum Insertions to Balance a Parentheses String | Medium | String, Stack, Greedy, Bracket Sequences, Math | Java | LeetCode | [View Solution](../LeetCode/Java/medium/Minimum-Insertions-to-Balance-a-Parentheses-String/README.md) |
 | Minimum Sum of Squared Difference | Medium | Array, Binary Search, Greedy, Sorting, Heap (Priority Queue), Math | Java | LeetCode | [View Solution](../LeetCode/Java/medium/Minimum-Sum-of-Squared-Difference/README.md) |
 
 ---

@@ -1,6 +1,6 @@
 # Math
 
-> 7 problems classified under this topic.
+> 8 problems classified under this topic.
 
 [← Back to README](../README.md) · [All Problems](../docs/AllProblems.md)
 
@@ -15,6 +15,7 @@
 | Maximum Product of Three Numbers | Easy | Array, Math, Sorting | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Maximum-Product-of-Three-Numbers/README.md) |
 | Minimum Insertions to Balance a Parentheses String | Medium | String, Stack, Greedy, Bracket Sequences, Math | Java | LeetCode | [View Solution](../LeetCode/Java/medium/Minimum-Insertions-to-Balance-a-Parentheses-String/README.md) |
 | Longest Bitonic Subarray | Medium | Sliding Window, Array, Math, Subarray | Java | GeeksforGeeks | [View Solution](../gfg/Java/Medium/Longest-Bitonic-Subarray/README.md) |
+| Minimum Sum of Squared Difference | Medium | Array, Binary Search, Greedy, Sorting, Heap (Priority Queue), Math | Java | LeetCode | [View Solution](../LeetCode/Java/medium/Minimum-Sum-of-Squared-Difference/README.md) |
 
 ---
 

@@ -2,7 +2,7 @@
 
 > Automatically organized, analyzed, and updated by **CodeSyncVault**.
 
-[![Total Solved](https://img.shields.io/badge/Total%20Solved-33-6e40c9)](docs/AllProblems.md) [![Basic](https://img.shields.io/badge/Basic-0-4c9aff)](docs/Basic.md) [![Easy](https://img.shields.io/badge/Easy-7-2ea44f)](docs/Easy.md) [![Medium](https://img.shields.io/badge/Medium-20-f9a825)](docs/Medium.md) [![Hard](https://img.shields.io/badge/Hard-6-d73a49)](docs/Hard.md) [![Powered by CodeSyncVault](https://img.shields.io/badge/Powered%20by-CodeSyncVault-6e40c9)](https://github.com/vivekkushwahaofficial/CodeSyncVault)
+[![Total Solved](https://img.shields.io/badge/Total%20Solved-34-6e40c9)](docs/AllProblems.md) [![Basic](https://img.shields.io/badge/Basic-0-4c9aff)](docs/Basic.md) [![Easy](https://img.shields.io/badge/Easy-7-2ea44f)](docs/Easy.md) [![Medium](https://img.shields.io/badge/Medium-21-f9a825)](docs/Medium.md) [![Hard](https://img.shields.io/badge/Hard-6-d73a49)](docs/Hard.md) [![Powered by CodeSyncVault](https://img.shields.io/badge/Powered%20by-CodeSyncVault-6e40c9)](https://github.com/vivekkushwahaofficial/CodeSyncVault)
 
 ---
 
@@ -17,20 +17,20 @@
 
 | Metric | Count |
 | --- | ---: |
-| 🏆 Total Solved | 33 |
+| 🏆 Total Solved | 34 |
 | 🔵 Basic | 0 |
 | 🟢 Easy | 7 |
-| 🟠 Medium | 20 |
+| 🟠 Medium | 21 |
 | 🔴 Hard | 6 |
 
 ## 📈 Progress
 
 | Difficulty | Progress | Solved |
 | --- | --- | ---: |
-| 🔵 Basic | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/33 |
-| 🟢 Easy | ████░░░░░░░░░░░░░░░░ 21% | 7/33 |
-| 🟠 Medium | ████████████░░░░░░░░ 61% | 20/33 |
-| 🔴 Hard | ████░░░░░░░░░░░░░░░░ 18% | 6/33 |
+| 🔵 Basic | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/34 |
+| 🟢 Easy | ████░░░░░░░░░░░░░░░░ 21% | 7/34 |
+| 🟠 Medium | ████████████░░░░░░░░ 62% | 21/34 |
+| 🔴 Hard | ████░░░░░░░░░░░░░░░░ 18% | 6/34 |
 
 ## 🔥 Coding Activity
 
@@ -42,16 +42,17 @@
 | --- | ---: |
 | [Stack](patterns/Stack.md) | 5 |
 | [Hash Map](patterns/Hash%20Map.md) | 4 |
-| [Sorting](patterns/Sorting.md) | 2 |
-| [Greedy](patterns/Greedy.md) | 1 |
+| [Sorting](patterns/Sorting.md) | 3 |
+| [Greedy](patterns/Greedy.md) | 2 |
+| [Binary Search](patterns/Binary%20Search.md) | 1 |
 | [Sliding Window](patterns/Sliding%20Window.md) | 1 |
 
 ## 📚 Topic Index
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](topics/Array.md) | 7 |
-| [Math](topics/Math.md) | 7 |
+| [Array](topics/Array.md) | 8 |
+| [Math](topics/Math.md) | 8 |
 | [Stack](topics/Stack.md) | 7 |
 | [String](topics/String.md) | 4 |
 | [Hashing](topics/Hashing.md) | 1 |
@@ -62,19 +63,20 @@
 
 | Language | Problems |
 | --- | ---: |
-| Java | 33 |
+| Java | 34 |
 
 ## 🌐 Platforms
 
 | Platform | Problems |
 | --- | ---: |
 | GeeksforGeeks | 17 |
-| LeetCode | 16 |
+| LeetCode | 17 |
 
 ## 🕒 Recently Solved
 
 | Problem | Difficulty | Language | Platform | Date |
 | --- | --- | --- | --- | --- |
+| [Minimum Sum of Squared Difference](LeetCode/Java/medium/Minimum-Sum-of-Squared-Difference/README.md) | Medium | Java | LeetCode | 2026-10-10 |
 | [Minimum Cost to Fill Given Weight](gfg/Java/Medium/Minimum-Cost-to-Fill-Given-Weight/README.md) | Medium | Java | GeeksforGeeks | 2026-10-09 |
 | [Longest Bitonic Subarray](gfg/Java/Medium/Longest-Bitonic-Subarray/README.md) | Medium | Java | GeeksforGeeks | 2026-10-09 |
 | [Minimum Insertions to Balance a Parentheses String](LeetCode/Java/medium/Minimum-Insertions-to-Balance-a-Parentheses-String/README.md) | Medium | Java | LeetCode | 2026-10-09 |
@@ -84,7 +86,6 @@
 | [Minimum Add to Make Parentheses Valid](LeetCode/Java/medium/Minimum-Add-to-Make-Parentheses-Valid/README.md) | Medium | Java | LeetCode | 2026-10-06 |
 | [Your Social Network](gfg/Java/Medium/Your-Social-Network/README.md) | Medium | Java | GeeksforGeeks | 2026-10-05 |
 | [Score of Parentheses](LeetCode/Java/medium/Score-of-Parentheses/README.md) | Medium | Java | LeetCode | 2026-10-05 |
-| [Smallest Palindromic Rearrangement II](LeetCode/Java/hard/Smallest-Palindromic-Rearrangement-II/README.md) | Hard | Java | LeetCode | 2026-10-04 |
 
 ## 📚 Solution Documentation
 
